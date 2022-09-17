@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Retro.png" width="2319" height="860">
+  <SubTexture name="Retro IDLE0000.png" x="1" y="1"  width="468" height="854" frameX="-0" frameY="-4" frameWidth="468" frameHeight="858"/>
+  <SubTexture name="Retro IDLE0004.png" x="471" y="1"  width="462" height="854" frameX="-4" frameY="-4" frameWidth="468" frameHeight="858"/>
+  <SubTexture name="Retro IDLE0002.png" x="935" y="1"  width="468" height="858" frameX="-0" frameY="-0" frameWidth="468" frameHeight="858"/>
+  <SubTexture name="Retro IDLE0006.png" x="1405" y="1"  width="459" height="858" frameX="-9" frameY="-0" frameWidth="468" frameHeight="858"/>
+  <SubTexture name="Retro IDLE0008.png" x="1866" y="1"  width="452" height="858" frameX="-15" frameY="-0" frameWidth="468" frameHeight="862"/>
+  <SubTexture name="Retro IDLE0001.png" x="1" y="1"  width="468" height="854" frameX="-0" frameY="-4" frameWidth="468" frameHeight="858"/>
+  <SubTexture name="Retro IDLE0003.png" x="935" y="1"  width="468" height="858" frameX="-0" frameY="-0" frameWidth="468" frameHeight="858"/>
+  <SubTexture name="Retro IDLE0005.png" x="471" y="1"  width="462" height="854" frameX="-4" frameY="-4" frameWidth="468" frameHeight="858"/>
+  <SubTexture name="Retro IDLE0007.png" x="1405" y="1"  width="459" height="858" frameX="-9" frameY="-0" frameWidth="468" frameHeight="858"/>
+  <SubTexture name="Retro IDLE0009.png" x="1866" y="1"  width="452" height="858" frameX="-15" frameY="-0" frameWidth="468" frameHeight="862"/>
+  <SubTexture name="Retro IDLE0010.png" x="1866" y="1"  width="452" height="858" frameX="-15" frameY="-0" frameWidth="468" frameHeight="862"/>
+  <SubTexture name="Retro IDLE0011.png" x="1866" y="1"  width="452" height="858" frameX="-15" frameY="-0" frameWidth="468" frameHeight="862"/>
+  <SubTexture name="Retro IDLE0012.png" x="1866" y="1"  width="452" height="858" frameX="-15" frameY="-0" frameWidth="468" frameHeight="862"/>
+  <SubTexture name="Retro IDLE0013.png" x="1866" y="1"  width="452" height="858" frameX="-15" frameY="-0" frameWidth="468" frameHeight="862"/>
+  <SubTexture name="Retro IDLE0014.png" x="1866" y="1"  width="452" height="858" frameX="-15" frameY="-0" frameWidth="468" frameHeight="862"/>
+</TextureAtlas>

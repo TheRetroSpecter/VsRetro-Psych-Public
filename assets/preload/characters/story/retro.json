@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"scale": 0.95,
+			"indices": [],
+			"name": "Retro IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/story/Retro",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "retro",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

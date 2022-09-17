@@ -1,0 +1,13 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:That was so much fun!
+:sakuroma:Neutral:Would you two like to wind down with some food and drinks at my establishment?
+:sakuroma:Blush:I have a demon ghost butler and a robot janitor, they're the cutest~!
+:bf-saku:Happy:Sure!
+:setFont:vcr.ttf|40
+:minus-gf:Happy:Bloo!
+:setFont:Blenda Script.otf|40
+:sakuroma:Horny:After the obligatory sex of course~.
+:bf-saku:Ahegao:Of course~!
+:setFont:vcr.ttf|40
+:minus-gf:Neutral:...
+:minus-gf:Cheering:^^;

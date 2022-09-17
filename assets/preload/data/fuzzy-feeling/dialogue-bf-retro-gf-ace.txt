@@ -1,0 +1,20 @@
+:setFont:vcr.ttf|40
+:bf-retro:Happy:Random trivia time!
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:Oh boy.
+
+:setFont:vcr.ttf|40
+:ace:Eyeroll:Here we go.
+
+:setFont:vcr.ttf|40
+:bf-retro:Confused:Did you know that, originally, this form of BF Retro was actually a disguise to scout out BF?
+:bf-retro:Confused:The original premise of Vs. Retro was that Retro was going to be a hired guard from Daddy Dearest for GF.
+:bf-retro:Sad:But other mods around the time were doing similar concepts, and the creator wanted to avoid that.
+:bf-retro:Happy:So he changed the story to have BF and GF visit hell as sort of like, a vacation spot instead!
+
+:setFont:vcr.ttf|40
+:ace:Shocked:Oh wow. I didn't actually know that.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Me neither!

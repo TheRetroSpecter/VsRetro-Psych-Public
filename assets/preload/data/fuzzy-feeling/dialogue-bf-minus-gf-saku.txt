@@ -1,0 +1,17 @@
+:setFont:vcr.ttf|40
+:minus-bf:Booba:BOOPA
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:Hm?
+
+:setFont:vcr.ttf|40
+:minus-bf:Booba:BOOPA
+
+:setFont:Blenda Script.otf|40
+:sakuroma-gf:Blush:Oh no. I think him seeing two of us broke him.
+
+:setFont:vcr.ttf|40
+:minus-bf:Booba:BOOPIES
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Well then, maybe the power of music and love will break him out of this spell.

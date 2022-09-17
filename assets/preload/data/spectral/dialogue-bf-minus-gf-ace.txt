@@ -1,0 +1,16 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Beepnough.
+:setFont:vcr.ttf|40
+:ace-L:Eyeroll:...
+:minus-bf:Neutral:...
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:See? I have a sense of humor too.
+:setFont:vcr.ttf|40
+:ace-L:Tired:Hardly. That pun was terrible.
+:startTextShake:2|2
+:setFont:aApiNyala.ttf|60
+:retro:Angry:THAT'S IT! I'M ZERKIN' OFF.
+:setFont:vcr.ttf|40
+:stopTextShake:
+:minus-bf:Miss:Beep?
+:ace-L:Neutral:Gross!

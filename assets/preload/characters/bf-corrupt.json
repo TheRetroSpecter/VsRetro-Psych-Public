@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_MISS_Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-65
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_MISS_Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				102
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_MISS_Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				33
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "Crystal_BF_MISS_Right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corruptro/Crystal_BF_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-corrupt",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		150,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

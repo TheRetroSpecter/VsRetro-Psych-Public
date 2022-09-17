@@ -1,0 +1,17 @@
+:setFont:vcr.ttf|40
+:bf-retro:Confused:Whoa, who's that?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Who, the demon chick?
+:setFont:vcr.ttf|40
+:bf-retro:Smug:Yeah.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:No idea. She got here right when you did.
+:setFont:vcr.ttf|40
+:bf-retro:Flushed:She's cute.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:You do this with every girl you see.
+:setFont:vcr.ttf|40
+:bf-retro:Happy:No, I mean it this time! Sheesh awooga zoo-wee mama hot diggidy zamn!
+:minus-gf:Neutral:?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:And you wonder why you don't have a girlfriend.

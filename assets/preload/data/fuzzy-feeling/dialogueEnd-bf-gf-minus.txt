@@ -1,0 +1,9 @@
+:setFont:vcr.ttf|40
+:minus-gf:Cheering:[Happy]
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:I can never get tired of that song!
+:sakuroma:Angry:Unlike SOME people...
+:setFont:vcr.ttf|40
+:bf:Booba:Booba?
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Oh fine, come here you two~

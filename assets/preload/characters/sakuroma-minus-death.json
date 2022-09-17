@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				241,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Maku Dies0"
+		},
+		{
+			"offsets": [
+				241,
+				-118
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Maku Dies Idle0"
+		},
+		{
+			"offsets": [
+				241,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Maku Dies Confirm0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/maku/maku_death_anims",
+	"position": [
+		-40,
+		-120
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		54,
+		107
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

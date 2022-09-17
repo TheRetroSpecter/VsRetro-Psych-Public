@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="retro-end-notint-0.png" width="8182" height="8184">
+	<SubTexture name="CutsceneFull0086" x="5" y="5" width="2964" height="1812" frameX="-0" frameY="-0" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0084" x="2979" y="5" width="2695" height="1628" frameX="-92" frameY="-96" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0085" x="2979" y="1643" width="2695" height="1630" frameX="-92" frameY="-96" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0082" x="5" y="1827" width="2578" height="1474" frameX="-135" frameY="-259" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0083" x="2593" y="3283" width="2578" height="1462" frameX="-135" frameY="-259" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0081" x="5684" y="5" width="2301" height="1384" frameX="-147" frameY="-348" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0080" x="5684" y="1399" width="2301" height="1393" frameX="-147" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0079" x="5684" y="2802" width="2166" height="1431" frameX="-180" frameY="-293" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0078" x="5" y="3311" width="1983" height="1373" frameX="-245" frameY="-346" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0077" x="5" y="4694" width="1754" height="1296" frameX="-458" frameY="-420" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0076" x="5" y="6000" width="1729" height="1342" frameX="-473" frameY="-386" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0112" x="1744" y="6000" width="1602" height="1336" frameX="-549" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0089" x="5181" y="4243" width="1602" height="1336" frameX="-551" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0091" x="3356" y="4755" width="1580" height="1393" frameX="-556" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0108" x="3356" y="6158" width="1580" height="1393" frameX="-554" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0087" x="4946" y="5589" width="1566" height="1384" frameX="-578" frameY="-349" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0088" x="6522" y="5589" width="1566" height="1384" frameX="-578" frameY="-349" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0071" x="4946" y="6983" width="1502" height="1196" frameX="-557" frameY="-432" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0072" x="6458" y="6983" width="1496" height="1196" frameX="-563" frameY="-432" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0066" x="1769" y="4755" width="1483" height="1196" frameX="-577" frameY="-430" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0030" x="6793" y="4243" width="1384" height="774" frameX="-645" frameY="-828" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0051" x="1343" y="7352" width="1328" height="749" frameX="-679" frameY="-834" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0052" x="5" y="7352" width="1328" height="749" frameX="-679" frameY="-834" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0031" x="6793" y="4243" width="1384" height="774" frameX="-645" frameY="-828" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0093" x="6522" y="5589" width="1566" height="1384" frameX="-578" frameY="-349" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0094" x="6522" y="5589" width="1566" height="1384" frameX="-578" frameY="-349" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0098" x="6522" y="5589" width="1566" height="1384" frameX="-578" frameY="-349" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0099" x="6522" y="5589" width="1566" height="1384" frameX="-578" frameY="-349" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0104" x="6522" y="5589" width="1566" height="1384" frameX="-578" frameY="-349" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0105" x="6522" y="5589" width="1566" height="1384" frameX="-578" frameY="-349" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0090" x="5181" y="4243" width="1602" height="1336" frameX="-551" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0095" x="5181" y="4243" width="1602" height="1336" frameX="-551" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0100" x="5181" y="4243" width="1602" height="1336" frameX="-551" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0101" x="5181" y="4243" width="1602" height="1336" frameX="-551" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0106" x="5181" y="4243" width="1602" height="1336" frameX="-551" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0107" x="5181" y="4243" width="1602" height="1336" frameX="-551" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0092" x="3356" y="4755" width="1580" height="1393" frameX="-556" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0096" x="3356" y="4755" width="1580" height="1393" frameX="-556" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0097" x="3356" y="4755" width="1580" height="1393" frameX="-556" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0102" x="3356" y="4755" width="1580" height="1393" frameX="-556" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0103" x="3356" y="4755" width="1580" height="1393" frameX="-556" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0109" x="3356" y="6158" width="1580" height="1393" frameX="-554" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0114" x="3356" y="6158" width="1580" height="1393" frameX="-554" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0115" x="3356" y="6158" width="1580" height="1393" frameX="-554" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0121" x="3356" y="6158" width="1580" height="1393" frameX="-554" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0122" x="3356" y="6158" width="1580" height="1393" frameX="-554" frameY="-333" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0113" x="1744" y="6000" width="1602" height="1336" frameX="-549" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0119" x="1744" y="6000" width="1602" height="1336" frameX="-549" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+	<SubTexture name="CutsceneFull0120" x="1744" y="6000" width="1602" height="1336" frameX="-549" frameY="-385" frameWidth="2964" frameHeight="1812"/>
+</TextureAtlas>

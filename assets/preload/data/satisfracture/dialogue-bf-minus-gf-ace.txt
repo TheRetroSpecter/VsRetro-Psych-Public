@@ -1,0 +1,18 @@
+:setFont:vcr.ttf|40
+:minus-bf:Miss:Boop?
+:ace:Confused:Beep?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:What are you doing?
+:setFont:vcr.ttf|40
+:ace-L:Happy:Trying to communicate!
+:ace:Happy:Beep!
+:minus-bf:Happy:Bop!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:This is ridiculous.
+:setFont:vcr.ttf|40
+:ace:Smug:Beep boop, bop bip brap boop. Bippity skippity, doopity poopity.
+:minus-bf:Disgruntled:Booooop...
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Uh oh, I think you pissed him off.
+:setFont:vcr.ttf|40
+:ace-L:Shocked:Watch out, he's gonna beep us!

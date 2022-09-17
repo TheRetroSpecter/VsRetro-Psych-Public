@@ -1,0 +1,16 @@
+:setFont:vcr.ttf|40
+:ace-L:Confused: Wait a minute. Did you say "Shapeshifters trying to pose as popular figures"?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral: Yes. It happens a lot to me since I'm pretty renowned there.
+:setFont:vcr.ttf|40
+:ace:Confused: Then who's the other Saku-
+:setFont:Blenda Script.otf|40
+:bf-saku:Neutral: ...
+:startTextShake:3|1
+:setFont:Exquisite Corpse.ttf|78
+:bf-saku:Wink: I WILL DEVOUR YOUR FLESH!
+:startTextShake:0|0
+:setFont:vcr.ttf|40
+:ace:Shocked: OH SHIT!
+:setFont:Blenda Script.otf|40
+:sakuroma:Enraged: GET BEHIND ME HUN! THINGS ARE ABOUT TO GET UGLY.

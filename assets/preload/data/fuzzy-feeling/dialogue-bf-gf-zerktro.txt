@@ -1,0 +1,24 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Angry:Retro.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Neutral:WHAT.
+:setFont:Blenda Script.otf|40
+:sakuroma:Angry:Put. The lady. Down.
+:setFont:vcr.ttf|40
+:gf:Sad:D:
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Neutral:NO. FREE MEAT.
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Alright. Another 3 months in my sex dungeon.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Blush:...
+:zerktro-L:Sad:BUT- FOOD-
+:setFont:Blenda Script.otf|40
+:sakuroma:Enraged:You literally have 5 liters of Mountain Spew™️ behind those speakers! I see them right there!
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:THAT'S DRINK. I WANT FOOD.
+:setFont:Blenda Script.otf|40
+:sakuroma:Angry:Look, after I'm done singing with Boyfriend here, I want you to calmly put her down, and I will grab you some McDemon's. Okay?
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Neutral:...
+:zerktro-L:Talking:FINE. I'LL THINK ABOUT IT.

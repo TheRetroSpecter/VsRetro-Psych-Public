@@ -1,0 +1,33 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50, 0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "InsatianBop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/story/InsatianBop",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "insatian",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

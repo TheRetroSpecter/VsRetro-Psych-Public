@@ -1,0 +1,33 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				375, 30
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "saku idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/story/Saku_Menu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

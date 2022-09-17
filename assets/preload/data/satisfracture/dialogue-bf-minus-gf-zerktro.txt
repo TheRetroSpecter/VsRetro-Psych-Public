@@ -1,0 +1,24 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:These character dialogue combinations suck.
+:setFont:aApiNyala.ttf|60.
+:zerktro-L:Sad:TELL ME ABOUT IT. 
+:zerktro-L:Sad:I'M SITTING HERE WRITING LIKE 100 DIFFERENT CHARACTER INTERACTIONS.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:People are just gonna look up a video of this anyways.
+:retro:Neutral:No one wants to replay the same song over and over again to see these.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Neutral:LET'S AGREE TO NOT DO THIS MOVING FORWARD. 
+:zerktro-L:Neutral:ESPECIALLY WITH THE OTHER SINS.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Yeah. Hard agree there.
+:setFont:vcr.ttf|40
+:minus-bf:Disgruntled:Boop bop.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Huh? Why don't I write much for you?
+:retro:Assertive:You are literally Boyfriend but blue with a Halo. All you do is beep boop.
+:setFont:aApiNyala.ttf|60
+:zerktro:Talking:YEAH. YOU'RE LUCKY YOU'RE EVEN GETTING CUSTOM DIALOGUE.
+:zerktro:Laugh:COULD'VE JUST LUMPED YOU IN AS A BF SKIN AND MADE THE DIALOGUE THE SAME.
+:zerktro:Laugh:BITCH.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Anyways, song time.

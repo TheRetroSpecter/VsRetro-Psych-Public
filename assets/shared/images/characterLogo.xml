@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="characterLogo.png" width="1524" height="1435">
+  <SubTexture name="BERSERKER-RETRO-Instanz-10028" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10026" x="4" y="295"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10025" x="4" y="586"  width="601" height="281" frameX="-104" frameY="-140" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10024" x="613" y="4" width="281" height="601" rotated="true"  frameX="-104" frameY="-140" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10023" x="4" y="875"  width="601" height="278" frameX="-104" frameY="-142" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10022" x="902" y="4" width="274" height="601" rotated="true"  frameX="-104" frameY="-144" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10021" x="4" y="1161"  width="601" height="270" frameX="-104" frameY="-146" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10020" x="613" y="613" width="262" height="601" rotated="true"  frameX="-104" frameY="-150" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10019" x="883" y="613" width="249" height="601" rotated="true"  frameX="-104" frameY="-156" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10018" x="1140" y="613" width="229" height="600" rotated="true"  frameX="-105" frameY="-166" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10017" x="613" y="1222"  width="605" height="185" frameX="-100" frameY="-188" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10016" x="1377" y="4" width="107" height="608" rotated="true"  frameX="-97" frameY="-227" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10015" x="1377" y="620" width="43" height="609" rotated="true"  frameX="-95" frameY="-259" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10014" x="613" y="1415"  width="610" height="10" frameX="-95" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10013" x="1492" y="4" width="10" height="608" rotated="true"  frameX="-96" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10012" x="1510" y="4" width="10" height="607" rotated="true"  frameX="-97" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10011" x="1510" y="619" width="10" height="602" rotated="true"  frameX="-99" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10010" x="1428" y="620" width="10" height="597" rotated="true"  frameX="-102" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10009" x="1446" y="620" width="10" height="590" rotated="true"  frameX="-105" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10008" x="1464" y="620" width="10" height="580" rotated="true"  frameX="-110" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10006" x="1482" y="620" width="11" height="546" rotated="true"  frameX="-127" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10005" x="1184" y="4" width="12" height="514" rotated="true"  frameX="-143" frameY="-277" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10007" x="1204" y="4" width="10" height="566" rotated="true"  frameX="-117" frameY="-278" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10004" x="1222" y="4" width="14" height="459" rotated="true"  frameX="-171" frameY="-276" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10003" x="1244" y="4" width="16" height="346" rotated="true"  frameX="-227" frameY="-275" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10002" x="1482" y="1174" width="20" height="197" rotated="true"  frameX="-301" frameY="-273" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10001" x="1184" y="578"  width="87" height="23" frameX="-356" frameY="-272" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10000" x="1184" y="526"  width="1" height="1" frameX="-356" frameY="-212" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10027" x="4" y="295"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10029" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10030" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10031" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10032" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10033" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10034" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10035" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10036" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10037" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10038" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+  <SubTexture name="BERSERKER-RETRO-Instanz-10039" x="4" y="4"  width="601" height="283" frameX="-104" frameY="-139" frameWidth="705" frameHeight="423"/>
+</TextureAtlas>

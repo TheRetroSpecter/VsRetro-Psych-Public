@@ -1,0 +1,32 @@
+{
+	"songs": [
+		["Preseason", "retro", [23, 216, 228]],
+		["Sigma", "retro", [23, 216, 228]],
+		["Acidiron", "retro", [23, 216, 228]],
+		["Preppy", "sakuroma", [248, 54, 107]],
+		["Overtime", "metro-saku-duo", [136, 135, 168]]
+	],
+
+	"loadingScreens": [
+		"Preseason:minus-random",
+		"Sigma:minus/sigma",
+		"Acidiron:minus/acidiron",
+		"Preppy:minus/preppy",
+		"Overtime:minus/overtime"
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Minus",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

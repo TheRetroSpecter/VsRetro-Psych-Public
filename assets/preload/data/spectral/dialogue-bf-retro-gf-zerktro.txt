@@ -1,0 +1,19 @@
+:setFont:aApiNyala.ttf|60
+:zerktro:Neutral:LOOK. ALL I'M SAYING IS-
+:zerktro:Talking:SNAKES DON'T HAVE HORNS. DRAGONS DO.
+:setFont:vcr.ttf|40
+:bf-retro:Happy:But we got the snooper boopers!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Please never say that again. Also-
+:retro:Annoyed:I'm going to only say this again once-
+:retro:Assertive:We are demons. We might be inspired by creatures-
+:retro:Assertive:But we are literal sin-themed demons. Just different proportions.
+:retro:Neutral:Got it?
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Eyeroll:...
+:setFont:vcr.ttf|40
+:bf-retro:Sad:...
+:setFont:aApiNyala.ttf|60
+:zerktro:Neutral:I'M MORE OF LIKE A WERE-DRAGON WHEN YOU THINK ABOUT IT.
+:startTextShake:2|2
+:retro:Angry:THAT'S IT-

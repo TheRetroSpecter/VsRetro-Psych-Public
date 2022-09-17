@@ -1,0 +1,26 @@
+:setFont:Blenda Script.otf|40
+:bf-saku:Ahegao:Uhuhuhu~
+:setFont:vcr.ttf|40
+:ace:Eyeroll:What the hell are you doing?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Yeah what-
+:setFont:Blenda Script.otf|40
+:bf-saku:Confused:What, I can't mess around while we're just standing here?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:No one wants to see you boobjob a microphone.
+:setFont:vcr.ttf|40
+:ace:Annoyed:Especially after what happened to the last one.
+:ace:Tired:Rest in peace, Pinky.
+:setFont:Blenda Script.otf|40
+:bf-saku:Flirt:Hey! Pinky had the time of its life with 3 moth ladies that night.
+:bf-saku:Wink:It's not our fault it short-circuited and exploded.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:It's literally your fault that it happened.
+:setFont:Blenda Script.otf|40
+:bf-saku:Annoyed:Fine. I put it away. Happy?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Where did you put it if you don't have clothes?
+:setFont:Blenda Script.otf|40
+:bf-saku:Happy:...
+:setFont:vcr.ttf|40
+:ace:Neutral:Gross!

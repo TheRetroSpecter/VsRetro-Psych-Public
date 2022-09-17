@@ -1,0 +1,16 @@
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Blush:SO WHILE YOU TWO WERE SINGING, GF AND I WERE TALKING.
+:zerktro-L:Sad:AND-
+:zerktro-L:Laugh:WE BOTH WANT SOME MCDEMON'S.
+:setFont:Blenda Script.otf|40
+:sakuroma:Angry:...
+:setFont:vcr.ttf|40
+:bf:Booba:BOOPA
+:setFont:Blenda Script.otf|40
+:sakuroma:Enraged:All of you???
+:sakuroma:Angry:Ugh. I'm really going to have to ask for another loan from my "sister" again, aren't I.
+:setFont:aApiNyala.ttf|60
+:zerktro:Happy:YAY MCDEMON'S TIME!
+:setFont:vcr.ttf|40
+:gf:Happy::D
+:bf:Happy:Boop!

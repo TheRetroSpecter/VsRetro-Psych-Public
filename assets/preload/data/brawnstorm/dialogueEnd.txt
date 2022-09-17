@@ -1,0 +1,26 @@
+:setFont:EastSeaDokdo.ttf|60
+:metro:Smug:Not bad, for a walking rock candy.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Smug:NOT SO BAD YOURSELF, MUSCLEHEAD.
+
+:setFont:EastSeaDokdo.ttf|60
+:metro:Happy:Perhaps we should set aside our differences and get to know each other?
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Happy:I concur. Would you like to know how to transform into your second phase?
+
+:setFont:EastSeaDokdo.ttf|60
+:metro:Happy:Hell yeah! That sounds gr--
+:shakeScreen:0.01,9999
+:startTextShake:2|1
+:metro:Confused:Wait, what's happening?
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Neutral:THE DIMENSIONS ARE GOING BACK TO NORMAL.
+:zerktro-R:Talking:THE SCREEN WILL FADE TO BLACK AND NONE OF THIS WILL BE CANON
+
+:setFont:EastSeaDokdo.ttf|60
+:metro:Angry:NOOOOOOOOOOOOOOO!
+
+:fadeToBlack:

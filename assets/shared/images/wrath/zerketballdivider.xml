@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zerketballdivider.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dividerbitch0000" x="10" y="10" width="258" height="1829" frameX="0" frameY="0" frameWidth="258" frameHeight="1834"/>
+	<SubTexture name="dividerbitch0001" x="10" y="10" width="258" height="1829" frameX="0" frameY="0" frameWidth="258" frameHeight="1834"/>
+	<SubTexture name="dividerbitch0002" x="10" y="10" width="258" height="1829" frameX="0" frameY="0" frameWidth="258" frameHeight="1834"/>
+	<SubTexture name="dividerbitch0003" x="278" y="10" width="209" height="1825" frameX="-27" frameY="-6" frameWidth="258" frameHeight="1834"/>
+	<SubTexture name="dividerbitch0004" x="278" y="10" width="209" height="1825" frameX="-27" frameY="-6" frameWidth="258" frameHeight="1834"/>
+	<SubTexture name="dividerbitch0005" x="278" y="10" width="209" height="1825" frameX="-27" frameY="-6" frameWidth="258" frameHeight="1834"/>
+	<SubTexture name="dividerbitch0006" x="497" y="10" width="202" height="1821" frameX="-17" frameY="-13" frameWidth="258" frameHeight="1834"/>
+	<SubTexture name="dividerbitch0007" x="497" y="10" width="202" height="1821" frameX="-17" frameY="-13" frameWidth="258" frameHeight="1834"/>
+	<SubTexture name="dividerbitch0008" x="497" y="10" width="202" height="1821" frameX="-17" frameY="-13" frameWidth="258" frameHeight="1834"/>
+</TextureAtlas>

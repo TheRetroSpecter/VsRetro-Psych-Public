@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Zerktro.png">
+	<SubTexture name="Neutral0000" x="43" y="18" width="743" height="541" frameX="0" frameY="37" frameWidth="743" frameHeight="541" />
+	<SubTexture name="Talking0000" x="852" y="18" width="743" height="541" frameX="0" frameY="37" frameWidth="743" frameHeight="541" />
+	<SubTexture name="Smug0000" x="1665" y="18" width="743" height="541" frameX="0" frameY="37" frameWidth="743" frameHeight="541" />
+	<SubTexture name="Happy0000" x="2521" y="18" width="743" height="541" frameX="0" frameY="37" frameWidth="743" frameHeight="541" />
+	<SubTexture name="Sad0000" x="43" y="632" width="743" height="541" frameX="0" frameY="37" frameWidth="743" frameHeight="541" />
+	<SubTexture name="Laugh0000" x="824" y="596" width="721" height="576" frameX="0" frameY="72" frameWidth="721" frameHeight="576" />
+	<SubTexture name="Eyeroll0000" x="1633" y="631" width="743" height="541" frameX="0" frameY="37" frameWidth="743" frameHeight="541" />
+	<SubTexture name="Blush0000" x="2502" y="631" width="743" height="541" frameX="0" frameY="37" frameWidth="743" frameHeight="541" />
+</TextureAtlas>

@@ -1,0 +1,43 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0, 0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0, 0
+			],
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY!!0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/story/MinusBF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf-minus",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

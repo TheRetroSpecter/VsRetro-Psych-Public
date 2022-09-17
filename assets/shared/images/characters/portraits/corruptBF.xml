@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="corruptBF.png">
+  <SubTexture name="Neutral" x="0" y="0" width="530" height="587"/>
+</TextureAtlas>

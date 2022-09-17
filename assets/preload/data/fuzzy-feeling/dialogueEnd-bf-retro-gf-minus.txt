@@ -1,0 +1,18 @@
+:setFont:vcr.ttf|40
+:bf-retro:Sad:Dammit now I'm curious.
+:bf-retro:Confused:Izzy? Atrocean? DOZIRC?
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:Darling, I was just kidding! That whole thing was just a little joke.
+:sakuroma:Blush:You should've seen the look on your face. What, you thought it was you?
+:setFont:vcr.ttf|40
+:bf-retro:Flushed:I-I knew it wasn't me, like I said, I was curious!
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Mhm, whatever you say hun~.
+:setFont:vcr.ttf|40
+:bf-retro:Sad:You're a real piece of work, Saku.
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:I'm just trying to pass the time while my place is being renovated.
+:sakuroma:Blush:As an apology, want the special service, free of charge?
+:setFont:vcr.ttf|40
+:bf-retro:Happy:Oh hell yeah! Apology accepted.
+:minus-gf:Neutral:Bruh.

@@ -1,0 +1,19 @@
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Neutral:ACE, STOP LETTING YOUR ANXIETY TAKE OVER WHENEVER WE ARGUE.
+:zerktro-R:Talking:YOU CAN'T KEEP RUNNING AWAY EVERY TIME THIS HAPPENS.
+
+:setFont:vcr.ttf|40
+:iceolation:Neutral:JUST LEAVE ME ALONE... I NEED TIME TO THINK.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Sad:I CAN'T DO THAT. I WANT TO HELP.
+
+:setFont:vcr.ttf|40
+:iceolation:Crying:YOU CAN HELP BY GIVING ME SOME SPACE!
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Talking:WE ALREADY LIVE APART ACROSS DIFFERENT REALMS. 
+:zerktro-R:Sad:THAT'S ENOUGH SPACE AS IT IS.
+
+:setFont:vcr.ttf|40
+:iceolation:Crying:Please... STOP!

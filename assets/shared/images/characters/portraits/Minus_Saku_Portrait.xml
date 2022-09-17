@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Minus_Saku_Portrait.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="Cheering0000"	x="0"	y="0"	width="1088"	height="695" frameX="-0" frameY="-0" frameWidth="1088" frameHeight="695"/>
+	<SubTexture name="Flustered0000"	x="1092"	y="0"	width="620"	height="482" frameX="-0" frameY="-15" frameWidth="620" frameHeight="497"/>
+	<SubTexture name="Giggling0000"	x="624"	y="1176"	width="620"	height="468" frameX="-0" frameY="-29" frameWidth="620" frameHeight="497"/>
+	<SubTexture name="Happy0000"	x="1248"	y="486"	width="620"	height="487" frameX="-0" frameY="-10" frameWidth="620" frameHeight="497"/>
+	<SubTexture name="Neutral0000"	x="0"	y="1200"	width="620"	height="487" frameX="-0" frameY="-10" frameWidth="620" frameHeight="497"/>
+	<SubTexture name="Sad0000"	x="624"	y="699"	width="620"	height="473" frameX="-0" frameY="-24" frameWidth="620" frameHeight="497"/>
+	<SubTexture name="Surprised0000"	x="0"	y="699"	width="620"	height="497" frameX="-0" frameY="-0" frameWidth="620" frameHeight="497"/>
+</TextureAtlas>

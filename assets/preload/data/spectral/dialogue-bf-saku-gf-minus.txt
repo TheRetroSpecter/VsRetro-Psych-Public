@@ -1,0 +1,23 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Sorry, one sec-
+:retro:Confused:Hello?
+:setFont:IMMORTAL.ttf|40
+:izzy-phone-L:Neutral:Is Saku there? Did she get into the shrinking potions again?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:...
+:setFont:Blenda Script.otf|40
+:bf-saku:Eyeroll:Cover for me! I thought they were love potions.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:...
+:retro:Assertive:She's here. Looks like her usual self to me.
+:izzy-phone-L:Neutral:Okay. I'll ask Hivemine then. Farewell.
+:setFont:Blenda Script.otf|40
+:bf-saku:Happy:Thanks, hun~. I knew I could count on you.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Uh huh.
+:setFont:Blenda Script.otf|40
+:bf-saku:Horny:Ohhh, how will I ever repay you~.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:I transform and see how far I can throw you over the gates?
+:setFont:Blenda Script.otf|40
+:bf-saku:Miss:HUH?

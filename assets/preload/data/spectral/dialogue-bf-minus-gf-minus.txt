@@ -1,0 +1,6 @@
+:setFont:vcr.ttf|40
+:minus-gf:Cheer::D ^^ :O :) :] ;3 C: :J =D :P :D ^^ :O :) :] ;3 C: :J =D :P :D ^^ :O :) :] ;3 C: :J =D :P :D ^^ :O :) :] ;3 C: :J =D :P
+:minus-bf:Happy:Boop bop beep bap boop brap bop b-
+:setFont:aApiNyala.ttf|80
+:startTextShake:4|4
+:retro:Angry:OH MY GOD SHUT UP. I CAN'T UNDERSTAND EITHER OF YOU!!

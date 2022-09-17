@@ -1,0 +1,9 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:This is the part where I get mad now I guess.
+:setFont:vcr.ttf|40
+:gf:Happy:[Happy]
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Boopa!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Wait, you guys are excited for it?
+:retro:Blush:T-thanks, I think it's cool too...

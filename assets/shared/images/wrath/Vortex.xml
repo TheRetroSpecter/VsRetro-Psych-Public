@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vortex.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vortex0000" x="1" y="1" width="769" height="463"/>
+	<SubTexture name="Vortex0001" x="773" y="1" width="769" height="463"/>
+	<SubTexture name="Vortex0002" x="1545" y="1" width="769" height="463"/>
+	<SubTexture name="Vortex0003" x="2317" y="1" width="769" height="463"/>
+	<SubTexture name="Vortex0004" x="3089" y="1" width="769" height="463"/>
+	<SubTexture name="Vortex0005" x="1" y="467" width="769" height="463"/>
+	<SubTexture name="Vortex0006" x="773" y="467" width="769" height="463"/>
+	<SubTexture name="Vortex0007" x="1545" y="467" width="769" height="463"/>
+	<SubTexture name="Vortex0008" x="2317" y="467" width="769" height="463"/>
+	<SubTexture name="Vortex0009" x="3089" y="467" width="769" height="463"/>
+	<SubTexture name="Vortex0010" x="1" y="933" width="769" height="463"/>
+	<SubTexture name="Vortex0011" x="773" y="933" width="769" height="463"/>
+	<SubTexture name="Vortex0012" x="1545" y="933" width="769" height="463"/>
+	<SubTexture name="Vortex0013" x="2317" y="933" width="769" height="463"/>
+	<SubTexture name="Vortex0014" x="3089" y="933" width="769" height="463"/>
+	<SubTexture name="Vortex0015" x="1" y="1399" width="769" height="463"/>
+	<SubTexture name="Vortex0016" x="773" y="1399" width="769" height="463"/>
+	<SubTexture name="Vortex0017" x="1545" y="1399" width="769" height="463"/>
+	<SubTexture name="Vortex0018" x="2317" y="1399" width="769" height="463"/>
+	<SubTexture name="Vortex0019" x="3089" y="1399" width="769" height="463"/>
+	<SubTexture name="Vortex0020" x="1" y="1865" width="769" height="463"/>
+	<SubTexture name="Vortex0021" x="773" y="1865" width="769" height="463"/>
+	<SubTexture name="Vortex0022" x="1545" y="1865" width="769" height="463"/>
+	<SubTexture name="Vortex0023" x="2317" y="1865" width="769" height="463"/>
+	<SubTexture name="Vortex0024" x="3089" y="1865" width="769" height="463"/>
+	<SubTexture name="Vortex0025" x="1" y="2331" width="769" height="463"/>
+	<SubTexture name="Vortex0026" x="773" y="2331" width="769" height="463"/>
+	<SubTexture name="Vortex0027" x="1545" y="2331" width="769" height="463"/>
+	<SubTexture name="Vortex0028" x="2317" y="2331" width="769" height="463"/>
+	<SubTexture name="Vortex0029" x="3089" y="2331" width="769" height="463"/>
+</TextureAtlas>

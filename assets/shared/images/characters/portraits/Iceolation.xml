@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Iceolation.png" width="778" height="3088">
+  <SubTexture name="Blushing" x="1" y="1"  width="776" height="772" frameX="-14" frameY="-0" frameWidth="797" frameHeight="773"/>
+  <SubTexture name="Happy" x="1" y="775"  width="776" height="772" frameX="-14" frameY="-0" frameWidth="797" frameHeight="773"/>
+  <SubTexture name="Sad" x="1" y="1549"  width="776" height="772" frameX="-14" frameY="-0" frameWidth="797" frameHeight="773"/>
+  <SubTexture name="Crying" x="1" y="1549"  width="776" height="772" frameX="-14" frameY="-0" frameWidth="797" frameHeight="773"/>
+  <SubTexture name="Neutral" x="1" y="2323"  width="776" height="764" frameX="-14" frameY="-8" frameWidth="797" frameHeight="773"/>
+</TextureAtlas>

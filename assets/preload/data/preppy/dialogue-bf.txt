@@ -1,0 +1,24 @@
+:setFont:EastSeaDokdo.ttf|60
+:minus-atrocean:Neutral:An amazing battle! Looks like the new guy wins this one!
+:setFont:EastSeaDokdo.ttf|60
+:minus-dozirc:Sleeping:Zzzzzzzzz...
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Beep Boop!
+:minus-gf:Cheering::D
+:setFont:EastSeaDokdo.ttf|70
+:startTextShake:2|1
+:minus-retro:Angry:WHAT!? No way!
+:stopTextShake
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Annoyed:Whatever, singing's stupid anyway.
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Cheering:YAAAAY! YOU DID IT!
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Angry:No I didn't. We lost!
+:minus-retro:Annoyed:Cover for me, will you? I'm gonna take a break.
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Surprised:M-me?! But I'm a cheerleader, not a singer...
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Angry:Then cheer at him or something, I don't know!
+:setFont:vcr.ttf|40
+:minus-bf:Miss:Brap?

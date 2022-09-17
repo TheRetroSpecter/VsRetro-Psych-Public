@@ -1,0 +1,91 @@
+{
+	"order": [
+		"wrath",
+		"lust",
+		"pride",
+		"gluttony",
+		"greed",
+		"envy",
+		"sloth"
+	],
+
+	"data": {
+		"wrath": {
+			"songs": ["Satisfracture", "Spectral"],
+			"char": "story/retro",
+			"name": "wrath_title",
+			"menuSong": "Menu_Wrath",
+			"introSong": "Intro_Wrath",
+			"nameColor": "0xFF18d8e5",
+			"bgColor": "0xFF00BBBB",
+			"logo": "VsRetrospecterLogo",
+			"bgSymbol": "wrath_symbol"
+		},
+		"lust": {
+			"songs": [],
+			"char": "story/sakuroma",
+			"name": "LUST",
+			"menuSong": "Menu_Lust",
+			"introSong": "Intro_Lust",
+			"nameColor": "0xFFff2a60",
+			"bgColor": "PINK",
+			"logo": "ComingSoonLogo",
+			"bgSymbol": "lust_symbol"
+		},
+		"pride": {
+			"songs": [],
+			"char": "story/izzurius",
+			"name": "PRIDE",
+			"menuSong": "Menu_Pride",
+			"introSong": "Intro_Pride",
+			"nameColor": "0xFF68efd1",
+			"bgColor": "0xFF1c1c1c",
+			"logo": "ComingSoonLogo",
+			"bgSymbol": "pride_symbol"
+		},
+		"gluttony": {
+			"songs": [],
+			"char": "story/insatian",
+			"name": "GLUTTONY",
+			"menuSong": "Menu_Gluttony",
+			"introSong": "Intro_Gluttony",
+			"nameColor": "0xFFfe2544",
+			"bgColor": "0xFF870000",
+			"logo": "ComingSoonLogo",
+			"bgSymbol": "gluttony_symbol"
+		},
+		"greed": {
+			"songs": [],
+			"char": "story/hivemine",
+			"name": "GREED",
+			"menuSong": "Menu_Greed",
+			"introSong": "Intro_Greed",
+			"nameColor": "0xFFd204ff",
+			"bgColor": "0xFF5400a8",
+			"logo": "ComingSoonLogo",
+			"bgSymbol": "greed_symbol"
+		},
+		"envy": {
+			"songs": [],
+			"char": "story/atrocean",
+			"name": "ENVY",
+			"menuSong": "Menu_Envy",
+			"introSong": "Intro_Envy",
+			"nameColor": "0xFF05fec4",
+			"bgColor": "0xFF131735",
+			"logo": "ComingSoonLogo",
+			"bgSymbol": "envy_symbol"
+		},
+		"sloth": {
+			"songs": [],
+			"char": "story/dozirc",
+			"name": "SLOTH",
+			"menuSong": "Menu_Sloth",
+			"introSong": "Intro_Sloth",
+			"nameColor": "0xFFd2914a",
+			"bgColor": "0xFF94420f",
+			"logo": "ComingSoonLogo",
+			"bgSymbol": "sloth_symbol"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+:setFont:vcr.ttf|40
+:bf-retro:Neutral:Hey Saku, how's the kids?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Very funny, darling. You know I'd never settle down and have kids, even at my age. 
+:sakuroma:Flirt:Life's too short to focus on such large responsibilities and commitments like that. 
+:setFont:vcr.ttf|40
+:bf-retro:Confused:But you're a Demon. You literally live hundreds of years, sometimes even for eternity.
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:You're right. I think if I did want kids, *he'd * be a good choice.
+:setFont:vcr.ttf|40
+:bf-retro:Confused:Who???
+:setFont:Blenda Script.otf|40
+:sakuroma:Happy:Oops, did I say that out loud? Well, I'll just keep that to myself. Singing time!

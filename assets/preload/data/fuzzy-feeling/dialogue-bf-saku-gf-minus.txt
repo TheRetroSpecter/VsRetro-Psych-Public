@@ -1,0 +1,10 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Wow.
+:bf-saku:Neutral:Hmm?
+:sakuroma:Happy:All three of us have pretty similar colors!
+:bf-saku:Happy:Oh you're right. We look gorgeous!
+:setFont:vcr.ttf|40
+:minus-gf:Happy:^^
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:You know, Retro used to hate the color pink. I think it's safe to say I've changed his mind~
+:bf-saku:Neutral:Considering he's mostly cyan, I can see that.

@@ -1,0 +1,18 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:Dude, spoilers.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Talking:WHAT.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:You are literally spoiling my 2nd phase by being here.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:CRY ABOUT IT, PUSSY.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:I'm just saying, not everyone has played Part 1 yet, especially with the new update.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Neutral:THEY LITERALLY HAVE TO BEAT MY SONG TO UNLOCK ME.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:...Oh. Right.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:DUMBASS.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Wow. You... I... really am an asshole.

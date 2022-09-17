@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Minus_GF_Portrait.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cheering0000" x="10" y="10" width="635" height="483" />
+	<SubTexture name="Happy0000" x="10" y="503" width="397" height="471" />
+	<SubTexture name="Neutral0000" x="417" y="503" width="397" height="471"/>
+	<SubTexture name="Sad0000" x="824" y="456" width="520" height="520" />
+</TextureAtlas>

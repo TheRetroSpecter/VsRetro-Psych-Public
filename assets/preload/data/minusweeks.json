@@ -1,0 +1,19 @@
+{
+	"order": [
+		"minus"
+	],
+
+	"data": {
+		"minus": {
+			"songs": ["Preseason","Sigma", "Acidiron", "Preppy", "Overtime"],
+			"char": "story/retro-minus",
+			"name": "wrath_title",
+			"menuSong": "Menu_Minus",
+			"introSong": "Intro_Minus",
+			"nameColor": "0xFF18d8e5",
+			"bgColor": "0xFF00BBBB",
+			"logo": "VsRetrospecterLogo",
+			"bgSymbol": "minus_symbol"
+		}
+	}
+}

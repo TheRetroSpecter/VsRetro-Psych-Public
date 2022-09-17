@@ -1,0 +1,9 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Oh man, I still can't get over this.
+:retro:Smug:I mean hey, short-stacks still need love too, right?
+:setFont:Blenda Script.otf|40
+:bf-saku:Flirt:Oh please, I can easily still handle you at this size.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Oh really? What about Zerktro?
+:setFont:Blenda Script.otf|40
+:bf-saku:Miss:What about wha-

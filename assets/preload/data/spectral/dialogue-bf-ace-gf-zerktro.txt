@@ -1,0 +1,10 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:Enough.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:"WAAAAAAAH 'ENOUGH' WAAAAAAAH!"
+:zerktro-L:Laugh:"I'M RETRO, I HAVE DADDY ISSUES."
+:startTextShake:2|1
+:retro:Angry:I'LL SHOW YOU WHO'S THE REAL DADDY HERE.
+:stopTextShake:
+:setFont:vcr.ttf|40
+:bf-ace:Blush:Ayo-? (My dreams have finally come true.)

@@ -1,0 +1,17 @@
+:setFont:EastSeaDokdo.ttf|60
+:minus-atrocean:Neutral:What a wonderful day here at Infernal Paradise University!
+:minus-atrocean:Neutral:Today, it's Team Heaven Vs. Team Hell! Who will come out on top?!
+:setFont:EastSeaDokdo.ttf|60
+:minus-dozirc:Sleeping:Zzzz...
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Ball:Wow, you actually showed up!
+:minus-retro:Neutral:I didn't think you'd have the balls.
+:minus-retro:Smug:'Cuz of what happened 3 weeks ago. Haha.
+:setFont:vcr.ttf|40
+:minus-bf:Disgruntled:Beep boop...
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Cheering:WOOOOOOOOO! Go Metro!
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Confused:Go where? I'm standing right where I need to be.
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Giggling:Oh, you're right! Teehee~!

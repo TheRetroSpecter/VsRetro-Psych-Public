@@ -1,0 +1,13 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Wait, what happened to your girlfriend?
+:setFont:vcr.ttf|40
+:bf:Huh:Beep boop?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:She's like, completely red all over.
+:setFont:vcr.ttf|40
+:minus-gf:Cheering:^^
+:setFont:vcr.ttf|40
+:bf:Neutral:Boop.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Why is she in a cheerleader outfit?
+:retro:Eyeroll:(Don't question it, Retro. Let's just get this over with.)

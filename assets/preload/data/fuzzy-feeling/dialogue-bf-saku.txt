@@ -1,0 +1,9 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Well hello there~
+:bf-saku:Wink:Oh hello there~
+:sakuroma:Thinking:I take it you're me? Just... cuter?
+:bf-saku:Flirt:Oh please darling, I'm nowhere near as cute as you are~
+:sakuroma:Flirt:At this rate we may as well be Pride~ Ohohoho~
+:bf-saku:Flirt:Ohohohohohohohoho~
+:setFont:vcr.ttf|40
+:gf:Neutral:What

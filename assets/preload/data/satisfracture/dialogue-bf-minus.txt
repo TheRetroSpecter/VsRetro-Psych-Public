@@ -1,0 +1,12 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Wait, why does Boyfriend look different?
+:setFont:vcr.ttf|40
+:gf:Neutral:?
+:setFont:vcr.ttf|40
+:minus-bf:Neutral:Beep.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Well you know the drill. Sing if you wanna pass blah blah blah.
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Boop bop!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:I don't get paid enough for this shit.

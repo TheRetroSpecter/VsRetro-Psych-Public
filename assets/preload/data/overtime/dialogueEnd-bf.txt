@@ -1,0 +1,24 @@
+:setFont:EastSeaDokdo.ttf|60
+:minus-atrocean:Neutral:What an absolutely stunning display from all three participants! I'm floored!
+:setFont:EastSeaDokdo.ttf|60
+:minus-dozirc:Awake:That was...pretty cool...
+:setFont:EastSeaDokdo.ttf|60
+:minus-atrocean:Neutral:You and I might have to sing down there ourselves sometime, Mozy!
+:setFont:EastSeaDokdo.ttf|60
+:minus-dozirc:Sleeping:Zzzz...
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Neutral:Not bad, runt.
+:minus-retro:Smug:This was, uh, actually kinda fun, and I am NOT easy to impress.
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Happy:It was super fun! We should sing together again sometime!
+:minus-sakuroma:Flustered:O-only if you want to, Metro...
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Flushed:Sure, but for now I'm gonna head back to the lockers and do some lifting.
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Beep!
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Happy:If you ever need someone to spot you, hit me up, bro. I know at least 52 workout routines.
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Giggling:You too, little lady! I know 126 different positions! Flexibility is my middle name!
+:setFont:vcr.ttf|40
+:minus-gf:Cheering:^^

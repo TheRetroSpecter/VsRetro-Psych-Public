@@ -1,0 +1,14 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:*sigh*
+:ace-L:Confused:What's up?
+:retro:Eyeroll:Nothing.
+:ace-L:Happy:You know you can come to me about anything, right?
+:retro:Neutral:I know. I just don't like bothering you.
+:ace-L:Neutral:We've been over this. You aren't a bother to me. Ever!
+:retro:Smug:Thank you.
+:retro:Neutral:It's just hard sometimes you know. Working every day, no vacations, no relaxi-
+:setFont:vcr.ttf|40
+:bf-ace:Sad:Hey can we hurry this up? I gotta pee.
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:WE'RE HAVING A MOMENT HERE.

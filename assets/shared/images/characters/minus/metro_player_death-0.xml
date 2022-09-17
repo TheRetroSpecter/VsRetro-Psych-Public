@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="metro_player_death-0.png" width="7074" height="7492">
+  <SubTexture name="Minus Retro DEATH confirm0001.png" x="4" y="4"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0002.png" x="1183" y="4"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0004.png" x="2362" y="4"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0005.png" x="3541" y="4"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0006.png" x="4720" y="4"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0007.png" x="5899" y="4"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0008.png" x="4" y="940"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0009.png" x="1183" y="940"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0010.png" x="2362" y="940"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0011.png" x="3541" y="940"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0012.png" x="4720" y="940"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0013.png" x="5899" y="940"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0014.png" x="4" y="1876"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0015.png" x="1183" y="1876"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0016.png" x="2362" y="1876"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0017.png" x="3541" y="1876"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0018.png" x="4720" y="1876"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0019.png" x="5899" y="1876"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0020.png" x="4" y="2812"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0021.png" x="1183" y="2812"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0022.png" x="2362" y="2812"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0023.png" x="3541" y="2812"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0024.png" x="4720" y="2812"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0025.png" x="5899" y="2812"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0026.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH LOOP0001.png" x="1183" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0002.png" x="2362" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0004.png" x="3541" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0006.png" x="4720" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0007.png" x="5899" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0008.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DIES0003.png" x="1183" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0004.png" x="2362" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0005.png" x="3541" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0006.png" x="4720" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0007.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0016.png" x="4" y="5621"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0019.png" x="1183" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0021.png" x="2362" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0023.png" x="3541" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0025.png" x="4720" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0026.png" x="5899" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0028.png" x="4" y="6558"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0030.png" x="1183" y="6559"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0032.png" x="2362" y="6559"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0034.png" x="3541" y="6559"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0036.png" x="4720" y="6559"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0037.png" x="5899" y="6559"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DEATH LOOP0018.png" x="1183" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0003.png" x="2362" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0019.png" x="2362" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0020.png" x="2362" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0005.png" x="3541" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0021.png" x="3541" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0022.png" x="3541" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0023.png" x="5899" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0024.png" x="5899" y="3748"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0009.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0010.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0011.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0012.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0013.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0014.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0015.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0016.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0017.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0025.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0026.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0027.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0028.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0029.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0030.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0031.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0032.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0033.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH LOOP0034.png" x="4" y="4684"  width="1171" height="929" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="929"/>
+  <SubTexture name="Minus Retro DEATH confirm0027.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0028.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0029.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0030.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0031.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0032.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0033.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DEATH confirm0034.png" x="4" y="3748"  width="1171" height="928" frameX="-0" frameY="-6" frameWidth="1171" frameHeight="934"/>
+  <SubTexture name="Minus Retro DIES0008.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0009.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0010.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0011.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0012.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0013.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0014.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0015.png" x="5899" y="4685"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0017.png" x="4" y="5621"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0018.png" x="4" y="5621"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0020.png" x="1183" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0022.png" x="2362" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0024.png" x="3541" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0027.png" x="5899" y="5622"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0029.png" x="4" y="6558"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0031.png" x="1183" y="6559"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0033.png" x="2362" y="6559"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+  <SubTexture name="Minus Retro DIES0035.png" x="3541" y="6559"  width="1171" height="929" frameX="-0" frameY="-15" frameWidth="1236" frameHeight="944"/>
+</TextureAtlas>

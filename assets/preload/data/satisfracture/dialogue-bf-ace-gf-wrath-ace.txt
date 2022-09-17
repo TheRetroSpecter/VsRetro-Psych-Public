@@ -1,0 +1,4 @@
+:setFont:EastSeaDokdo.ttf|60
+:zerktro-L:Smug:CRY ABOUT IT
+:setFont:vcr.ttf|40
+:ace:Neutral:No. [Happy]

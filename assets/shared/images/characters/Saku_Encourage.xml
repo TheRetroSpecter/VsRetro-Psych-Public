@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Saku_Encourage.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="saku encourage0000" x="10" y="10" width="911" height="980" frameX="-66" frameY="-5" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0001" x="10" y="10" width="911" height="980" frameX="-66" frameY="-5" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0002" x="931" y="10" width="911" height="978" frameX="-66" frameY="-7" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0003" x="1852" y="10" width="980" height="978" frameX="-14" frameY="-7" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0004" x="2842" y="10" width="980" height="977" frameX="-14" frameY="-8" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0005" x="2842" y="10" width="980" height="977" frameX="-14" frameY="-8" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0006" x="3832" y="10" width="999" height="978" frameX="0" frameY="-7" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0007" x="3832" y="10" width="999" height="978" frameX="0" frameY="-7" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0008" x="4841" y="10" width="999" height="980" frameX="0" frameY="-5" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0009" x="5850" y="10" width="995" height="980" frameX="-3" frameY="-5" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0010" x="6855" y="10" width="995" height="979" frameX="-3" frameY="-6" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0011" x="10" y="1000" width="991" height="979" frameX="-6" frameY="-6" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0012" x="1011" y="1000" width="991" height="979" frameX="-6" frameY="-6" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0013" x="2012" y="1000" width="991" height="979" frameX="-6" frameY="-6" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0014" x="2012" y="1000" width="991" height="979" frameX="-6" frameY="-6" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0015" x="3013" y="1000" width="991" height="979" frameX="-6" frameY="-6" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0016" x="4014" y="1000" width="999" height="980" frameX="0" frameY="-5" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0017" x="4014" y="1000" width="999" height="980" frameX="0" frameY="-5" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0018" x="5023" y="1000" width="999" height="985"/>
+	<SubTexture name="saku encourage0019" x="6032" y="1000" width="967" height="985" frameX="-24" frameY="0" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0020" x="7009" y="1000" width="967" height="985" frameX="-24" frameY="0" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0021" x="7009" y="1000" width="967" height="985" frameX="-24" frameY="0" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0022" x="10" y="1995" width="906" height="984" frameX="-70" frameY="-1" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0023" x="10" y="1995" width="906" height="984" frameX="-70" frameY="-1" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0024" x="926" y="1995" width="906" height="983" frameX="-70" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0025" x="1842" y="1995" width="910" height="983" frameX="-67" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0026" x="2762" y="1995" width="910" height="983" frameX="-67" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0027" x="3682" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0028" x="3682" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0029" x="3682" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0030" x="4604" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0031" x="4604" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0032" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0033" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0034" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0035" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0036" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0037" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0038" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0039" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0040" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0041" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0042" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+	<SubTexture name="saku encourage0043" x="5526" y="1995" width="912" height="983" frameX="-65" frameY="-2" frameWidth="999" frameHeight="985"/>
+</TextureAtlas>

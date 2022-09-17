@@ -1,0 +1,22 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Two Aces? Are my eyes deceiving me?
+:setFont:EastSeaDokdo.ttf|60
+:ace-L:Happy:Hey Saku! How are you?
+:sakuroma:Neutral:Good darling. Is this your little brother?
+:sakuroma:Blush:He's so...
+:sakuroma:Menacing:Short.
+:setFont:vcr.ttf|40
+:bf-ace:Blush:N-no. I'm him but in just a different art style.
+:setFont:EastSeaDokdo.ttf|60
+:ace:Smug:You're kind of more sassy though.
+:setFont:vcr.ttf|40
+:bf-ace:Confused:¿Y cuando te vas a callar hijueputa?
+:setFont:EastSeaDokdo.ttf|60
+:ace:Annoyed:¿No te das cuenta que puedo entenderte? Pendejo.
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Okay you two, let's calm down a bit before things get...
+:sakuroma:Horny:Feisty~
+:setFont:vcr.ttf|40
+:bf-ace:Sad:It's alway sex with you, isn't it?
+:setFont:EastSeaDokdo.ttf|60
+:ace-L:Eyeroll:You don't know the half of it, little dude.

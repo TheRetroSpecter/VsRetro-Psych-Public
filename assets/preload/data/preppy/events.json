@@ -1,0 +1,41 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "minus_preppy",
+		"player1": "bf-minus",
+		"player2": "sakuroma-minus-optim",
+		"instVol": 1,
+		"events": [
+			[
+				40714.2857142857,
+				[
+					[
+						"Play Animation",
+						"wink",
+						"dad"
+					]
+				]
+			],
+			[
+				180535.714285714,
+				[
+					[
+						"Play Animation",
+						"wink",
+						"dad"
+					]
+				]
+			]
+		],
+		"arrowSkinbf": null,
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-minus",
+		"arrowSkindad": null,
+		"bpm": 140,
+		"needsVoices": true,
+		"vocalVol": 1,
+		"song": "Preppy"
+	}
+}

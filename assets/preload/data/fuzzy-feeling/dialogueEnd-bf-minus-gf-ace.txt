@@ -1,0 +1,17 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Well that was fun. Now let's go get some creamed ice.
+
+:setFont:vcr.ttf|40
+:ace-L:Eyeroll:Please never say it like that again.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Icy cream? Creamy Ice? Ice creamer?
+
+:setFont:vcr.ttf|40
+:ace-L:Blush:If I didn't know any better I'd think you were talking about something else.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Menacing:What ever do you mean by that?
+
+:setFont:vcr.ttf|40
+:ace-L:Blush:N-Nothing. Let's go get creamed!

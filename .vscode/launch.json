@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "HXCPP",
+            "type": "hxcpp",
+            "request": "launch",
+            "program": "${workspaceFolder}/export/debug/windows/bin/FNF - Vs Retrospecter.exe",
+            "preLaunchTask": "lime: build windows -debug"
+        }
+    ]
+}

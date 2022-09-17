@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="gem1-1.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="cyan0000"		x="255"	y="0"	width="253"	height="329" frameX="-0" frameY="-0" frameWidth="253" frameHeight="329"/>
+	<SubTexture name="green0000"	x="0"	y="0"	width="253"	height="329" frameX="-0" frameY="-0" frameWidth="253" frameHeight="329"/>
+</TextureAtlas>

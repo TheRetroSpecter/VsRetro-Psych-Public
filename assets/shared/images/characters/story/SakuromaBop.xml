@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="_SakuromaBop.png" width="1988" height="645">
+  <SubTexture name="SakuromaBop idle0000" x="4" y="4"  width="406" height="592" frameX="-26" frameY="-80" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0001" x="4" y="4"  width="406" height="592" frameX="-26" frameY="-80" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0002" x="418" y="4"  width="394" height="607" frameX="-35" frameY="-65" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0003" x="418" y="4"  width="394" height="607" frameX="-35" frameY="-65" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0004" x="820" y="4"  width="389" height="619" frameX="-39" frameY="-53" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0005" x="820" y="4"  width="389" height="619" frameX="-39" frameY="-53" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0006" x="1217" y="4"  width="381" height="625" frameX="-41" frameY="-47" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0007" x="1217" y="4"  width="381" height="625" frameX="-41" frameY="-47" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0008" x="1606" y="4"  width="378" height="637" frameX="-43" frameY="-35" frameWidth="455" frameHeight="674"/>
+  <SubTexture name="SakuromaBop idle0009" x="1606" y="4"  width="378" height="637" frameX="-43" frameY="-35" frameWidth="455" frameHeight="674"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:That was fun, we should do it again sometime~
+:bf-saku:Ahegao:Agreed. Now let me show you what a small moth lady can do to a tall one~
+:sakuroma:Horny:Oh myyyyyyyy~
+:setFont:vcr.ttf|40
+:gf:Neutral:What

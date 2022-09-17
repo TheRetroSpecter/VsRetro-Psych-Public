@@ -1,0 +1,19 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:I...
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Menacing:Hmmm?
+:bf-saku:Flirt:Hmmmmmmmm?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush: I know... why... you're here...
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Horny:Well? Tell us~!
+:bf-saku:Ahegao:Yes~! Tell us~!
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:YOU'RE TRYING TO STEAL ALL MY MCDEMON'S COUPONS!
+:setFont:Blenda Script.otf|70
+:sakuroma-gf-L:Enraged:WHAT!?
+:bf-saku:Miss:HUH?!?
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:NICE TRY, PESTS. THAT DOUBLE IMPBURGER FOR JUST $2.99 IS MINE!

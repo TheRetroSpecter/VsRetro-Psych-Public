@@ -1,0 +1,59 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				5
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"scale": 1,
+			"name": "Zerktro Death Intro0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				188,
+				-6
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"scale": 1,
+			"name": "Zerktro Death Loop0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				184,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"scale": 1,
+			"indices": [],
+			"name": "Zerktro Death Confirm0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gameover/Zerktro_Death",
+	"position": [
+		-306,
+		-168
+	],
+	"healthicon": "zerktro",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		172,
+		180
+	],
+	"camera_position": [
+		480,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

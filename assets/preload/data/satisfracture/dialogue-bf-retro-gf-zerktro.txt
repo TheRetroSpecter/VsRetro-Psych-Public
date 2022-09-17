@@ -1,0 +1,31 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:What is this, a superhero movie crossover?
+:setFont:aApiNyala.ttf|200
+:startTextShake:2|1
+:zerktro-L:Laugh:ZERK SMASH
+:startTextShake:0|0
+:setFont:vcr.ttf|40
+:bf-retro:Smug:Alright guys, let's plot to take over the world.
+:bf-retro:Happy:Nothing can stop 3 handsome snake men.
+:setFont:aApiNyala.ttf|60
+:zerktro:Neutral:DRAGONS.
+:setFont:vcr.ttf|40
+:bf-retro:Confused:Huh? I thought we were snakes.
+:setFont:aApiNyala.ttf|60
+:zerktro:Talking:NO DUMBASS. WE'RE DRAGONS.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:No dumbasses, we're demons.
+:setFont:vcr.ttf|40
+:bf-retro:Confused:But you used to have a snake body, so you're a snake.
+:setFont:aApiNyala.ttf|60
+:zerktro:Talking:YEAH BUT LOOK AT MY HEAD SHAPE AND TELL ME WE'RE NOT DRAGONS.
+:startTextShake:1|1
+:setFont:EastSeaDokdo.ttf|80
+:retro:Angry:I said WE'RE DEMONS.
+:startTextShake:0|0
+:setFont:vcr.ttf|40
+:bf-retro:Smug:You stay out of this.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:YEAH SHUT UP BITCH.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:I hate it here.

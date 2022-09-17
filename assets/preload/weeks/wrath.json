@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Retro", "retro", [23, 216, 228]],
+		["Satisfracture", "retro", [23, 216, 228]],
+		["Spectral", "zerktro", [58, 172, 180]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Wrath",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

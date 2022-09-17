@@ -1,0 +1,9 @@
+:setFont:Blenda Script.otf|40
+:minus-sakuroma-P:Happy:That was amazing! Your voice is so beautiful!
+:sakuroma:Happy:And yours is adorable! We make a great team.
+:minus-sakuroma-P:Flustered:Something about you...makes me feel more confident about myself.
+:sakuroma:Flirt:Well, I have been told that I seem to lift people's spirits up.
+:sakuroma:Menacing:Among other things.
+:minus-sakuroma-P:Flustered:O-Oh.
+:sakuroma:Happy:Anyways, this is farewell! Until next time, Maku!
+:minus-sakuroma-P:Giggling:Thank you again Saku! I'll never forget you!

@@ -1,0 +1,13 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Hello Boyfriend, how are you doing?
+:setFont:vcr.ttf|40
+:bf:Happy:Beep!
+:setFont:vcr.ttf|40
+:minus-gf:Happy:^^
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Oh? Who's this? She's cute.
+:setFont:vcr.ttf|40
+:bf:Huh:Boopa?
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:You don't know?
+:sakuroma:Neutral:Well, wouldn't be the first weird thing that's happened in this place.

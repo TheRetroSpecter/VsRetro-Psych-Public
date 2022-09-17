@@ -1,0 +1,16 @@
+:setFont:Blenda Script.otf|40
+:sakuroma-gf:Happy:I'm so happy to be here with you two!
+:bf-saku:Happy:Me too!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Wait, why?
+:bf-saku:Flirt:Because we love you Retro. You were always our favorite sin to mess around with.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:What's going on, why do I feel so...
+:retro:Blush:Woozy...
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Horny:Don't worry about it. Just follow the little one's lead~
+:bf-saku:Horny:Yes~. Follow my lead sweetie~.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:No. I know what you guys are trying to do.
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Flirt:Don't resist~.

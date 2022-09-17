@@ -1,0 +1,9 @@
+:setFont:vcr.ttf|40
+:bf-retro:Happy:Phew! That was intense!
+:setFont:Blenda Script.otf|40
+:sakuroma-gf:Horny:Ohhhh~! I'll say~!
+:setFont:vcr.ttf|40
+:bf-retro:Confused:Does she always do this?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:You get used to it.
+:retro:Smug:Anyways, let me make this more interesting for the both of you.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="frontRocks.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="cyan0000"	x="833"	y="0"	width="828"	height="1218" frameX="-2338" frameY="-723" frameWidth="3169" frameHeight="1943"/>
+	<SubTexture name="green0000"	x="0"	y="0"	width="829"	height="1218" frameX="-2338" frameY="-723" frameWidth="3169" frameHeight="1943"/>
+</TextureAtlas>

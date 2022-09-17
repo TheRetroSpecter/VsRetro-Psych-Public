@@ -1,0 +1,41 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				8
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Minus Retro screams among us"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/Minus_Retro_Challenge",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "retro-minus",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		216,
+		228
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+
+	"hasChromatic": false,
+	"wrath": {
+		"night": {
+			"dir": 307
+		}
+	}
+}

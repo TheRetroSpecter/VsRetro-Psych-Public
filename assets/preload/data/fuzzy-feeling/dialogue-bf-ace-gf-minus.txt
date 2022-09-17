@@ -1,0 +1,18 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Menacing:Hello again manlet Ace~
+:setFont:vcr.ttf|40
+:bf-ace:Sad:You don't have to keep calling me that.
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:I only tease~
+:setFont:vcr.ttf|40
+:bf-ace:Confused:So what's up? Still being used by Retro on his streams for money?
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:As always my dear. The worst part is I don't get a single cut of it.
+:setFont:vcr.ttf|40
+:bf-ace:Sad:That's messed up.
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:It's alright. Hivemine will come to collect most of it in April.
+:setFont:Blenda Script.otf|30
+:sakuroma:Flirt:I get a "small" cut.
+:setFont:vcr.ttf|40
+:bf-ace:Happy:Oh! Niiiiice.

@@ -1,0 +1,19 @@
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:HAHA. HE KICKED YOUR ASS GOOD BRO.
+:zerktro-L:Talking:ALSO WHAT'S WITH THAT WEAK ASS VOICE?
+:zerktro-L:Smug:YOU'RE THE SIN OF WRATH, GET MAD.
+:setFont:EastSeaDokdo.ttf|60
+:startTextShake:1|1
+:retro:Annoyed:I'm already pissed.
+:stopTextShake:
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:WHAT WAS THAT, YOU LITTLE BABY? I CAN'T HEAR YOU.
+:setFont:aApiNyala.ttf|95
+:startTextShake:5|4
+:retro:Angry:I SAID I'M ALREADY PISSED!!
+:stopTextShake:
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:GOOD. LET THAT HATE FLOW THROUGH YOU.
+:zerktro-L:Talking:DO IT.
+:setFont:aApiNyala.ttf|70
+:zerktro-L:Laugh:DO IT.

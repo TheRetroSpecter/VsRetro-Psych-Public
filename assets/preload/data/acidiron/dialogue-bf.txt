@@ -1,0 +1,14 @@
+:setFont:EastSeaDokdo.ttf|60
+:minus-atrocean:Neutral:What a great start! I think our Quarterback might be struggling against the new rookie?
+:minus-dozirc:Sleeping:Zzzz...
+:setFont:vcr.ttf|40
+:minus-gf:Cheering:[Happy]
+:minus-bf:Happy:Beep!
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Surprised:What?
+:minus-retro:Annoyed:Struggling!?
+:minus-retro:Ball:No way. We're just getting started.
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Cheering:WE LOVE YOU METRO! WOOOO!
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Smug:Good luck on this next song, runt. See if you can keep up.

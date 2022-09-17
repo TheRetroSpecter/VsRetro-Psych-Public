@@ -1,0 +1,23 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:And then I told him "I'll take this job, but I'm not gonna like it."
+:setFont:Blenda Script.otf|40
+:bf-saku:Annoyed:Mhm.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Eyeroll:PREACH BROTHER.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:And then he says "You're gonna like it because thats where your spending your entire life!"
+:retro:Annoyed:And then he laughed!
+:retro:Neutral:I don't wanna be here the rest of eternity, dad! I'm already 28 (demon years)!
+:retro:Assertive:I got people to do, places to see!
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Talking:EXACTLY!
+:setFont:Blenda Script.otf|40
+:bf-saku:Annoyed:Yeah, he shouldn't be talking to you that way at all.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:God, it just makes me want to...
+:startTextShake:4|4
+:setFont:aApiNyala.ttf|200
+:retro:Angry:SCREAM!
+:stopTextShake:
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:YEP HERE IT COMES. I WOULD KNOW.

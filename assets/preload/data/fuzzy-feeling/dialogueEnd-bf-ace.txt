@@ -1,0 +1,7 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Your voice is as lovely as ever, Ace. Mind if I take that lovely lady's spot over there in the future?
+:setFont:vcr.ttf|40
+:bf-ace:Confused:I'm cool with that. I don't even know who she is.
+:gf:Sad:[Sad]
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:(Don't worry, sweetie, this is all non-canon.)

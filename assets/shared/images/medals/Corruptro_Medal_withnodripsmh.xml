@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Corruptro_Medal_withnodripsmh.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ShinySymbol dripless0000" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0001" x="112" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0002" x="112" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0003" x="214" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0004" x="214" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0005" x="316" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0006" x="10" y="116" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0007" x="112" y="116" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0008" x="214" y="116" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0009" x="214" y="116" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0010" x="316" y="116" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0011" x="316" y="116" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0012" x="10" y="222" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0013" x="112" y="222" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0014" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0015" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0016" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0017" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0018" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0019" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0020" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0021" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0022" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0023" x="10" y="10" width="92" height="96"/>
+	<SubTexture name="ShinySymbol dripless0024" x="10" y="10" width="92" height="96"/>
+</TextureAtlas>

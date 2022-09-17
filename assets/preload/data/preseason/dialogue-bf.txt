@@ -1,0 +1,25 @@
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Ball:Oh? Is that fresh meat I see?
+:setFont:vcr.ttf|40
+:minus-bf:Neutral:Beep?
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Neutral:The name's Metro. I'm the veteran quarterback for Team Infernal.
+:minus-retro:Neutral:You're the new quarterback for Team Paradise, right? You don't look like much.
+:setFont:vcr.ttf|40
+:minus-bf:Neutral:Boop.
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Ball:Me? I was just exorcising.
+:setFont:vcr.ttf|40
+:minus-bf:Smug:*Bap.
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Confused:Excorcising? Exercising?
+:minus-retro:Annoyed:Meh whatever. English is stupid.
+:setFont:vcr.ttf|40
+:minus-bf:Neutral:Brap.
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Smug:Hey pipsqueak. Test out my vocal chords with me. Let's see  who's the better singer.
+:setFont:vcr.ttf|40
+:minus-bf:Smug:*Boop.
+:setFont:EastSeaDokdo.ttf|60
+:startTextShake:1|1
+:minus-retro:Angry:*CORDS. WHATEVER!

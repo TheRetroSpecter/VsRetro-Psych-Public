@@ -1,0 +1,65 @@
+:setFont:vcr.ttf|40
+:iceolation:Crying:Why do you even want me around?!
+:iceolation:Neutral:All I do is cause you trouble.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Sad:BECAUSE YOU'RE THE ONLY ONE WHO GAVE ME A CHANCE.
+:zerktro-R:Sad:I CAME UP HERE TO RUN AWAY FROM MY RESPONSIBILITIES.
+:zerktro-R:Happy:BUT THEN YOU SHOWED ME WHAT IT MEANT TO FEEL TRUE HAPPINESS.
+:setFont:aApiNyala.ttf|50
+:zerktro-R:Talking:I DON'T HAVE ANYONE BESIDES YOU. EVERYONE ELSE THINKS I'M A RUTHLESS MONSTER.
+:zerktro-R:Talking:BUT NO MATTER HOW ANGRY I GET, YOU'RE ALWAYS THERE FOR ME. THROUGH THICK AND THIN.
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Happy:SO I WANT TO DO THE SAME FOR YOU.
+
+:setFont:vcr.ttf|40
+:iceolation:Neutral:...
+:iceolation:Neutral:I mean, you kind of are a monster.
+:iceolation:Happy:You ARE the sin of Wrath, after all.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Eyeroll:HAHA. VERY FUNNY.
+:zerktro-R:Neutral:COME ON, LET'S SIT FOR A BIT.
+
+:angryEnding:
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Neutral:MAN, LOOK AT THIS MESS YOU MADE.
+
+:setFont:vcr.ttf|40
+:iceolation:Happy:Well, you're here, so the snow will melt before anyone notices.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Neutral:OH YEAH. I GUESS THAT'S TRUE.
+:zerktro-R:Neutral:...
+:zerktro-R:Happy:This scenery is beautiful.
+:zerktro-R:Blush:Sitting here with you, it really calms me down.
+
+:setFont:vcr.ttf|40
+:iceolation:Blush:Yeah, me too.
+
+:happyEnding:
+
+:setFont:vcr.ttf|40
+:ace-left:Tired:Sorry about that. Just one of those moments.
+
+:setFont:EastSeaDokdo.ttf|60
+:retro-right:Neutral:Nah, I totally get it.
+:retro-right:Question:So, "Iceolation" huh?
+:retro-right:Neutral:It's a cool name.
+:retro-right:Smug:For a nerd.
+
+:setFont:vcr.ttf|40
+:ace-left:Smug:Whatever you say "Zerktro".
+
+:setFont:EastSeaDokdo.ttf|60
+:retro-right:Blush:Look, it sounded cooler in my head. "Berserker RetroSpecter" is such a mouthful.
+
+:setFont:vcr.ttf|40
+:ace-left:Happy:Haha, I'm just teasing you.
+:ace-left:Blush:Love you.
+
+:setFont:EastSeaDokdo.ttf|60
+:retro-right:Smug:I love you too.
+
+:fadeToBlack:

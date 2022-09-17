@@ -1,0 +1,13 @@
+:setFont:vcr.ttf|40
+:bf-retro:Flushed:Ohmygodhertailwagissocute
+:bf-retro:Smug:*Ahem *Hey good lookin', are you red all over cuz I'm here?
+:minus-gf:Sad::(
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:That pick-up line was terrible.
+:setFont:vcr.ttf|40
+:bf-retro:Smug:I'd like to see you do better.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:I don't need to do better, I got phase two.
+:setFont:vcr.ttf|40
+:minus-gf:Cheer::D
+:bf-retro:Sad:No fair.

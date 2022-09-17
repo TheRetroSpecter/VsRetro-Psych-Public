@@ -1,0 +1,17 @@
+:setFont:vcr.ttf|40
+:bf-retro:Neutral:Sakuroma was also never planned to be in Part One, nor did any of the team expect her to get this popular.
+:bf-retro:Neutral:The mod team literally added Fuzzy Feeling as a one-off bonus song because her assets were done ahead of schedule.
+:bf-retro:Neutral:So we said "Fuck it! Let's put her in!"
+:bf-retro:Confused:Little did we know, the effect she'd have on the mod, and the RetroSpecter YouTube channel itself.
+:bf-retro:Happy:For better!
+:bf-retro:Sad:And for worse.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Angry:Hey. He's the one that had all of my optional dialogue interactions with me end in sex.
+:sakuroma:Angry:People think this is actually how my canon character is!
+:sakuroma:Flirt:Imagine.
+
+:setFont:vcr.ttf|40
+:bf-retro:Smug:Hey, he's working on it! You won't be a sex-starved bimbo forever.
+:bf-retro:Sad:That is, if even has the energy to do your week.
+:bf-retro:Happy:Aaaaanyways, this dialogue combination has gone on long enough. Byeeee!

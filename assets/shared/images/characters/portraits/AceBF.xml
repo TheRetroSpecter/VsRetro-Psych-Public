@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AceBF.png">
+	<SubTexture name="Neutral0000" x="57" y="66" width="539" height="476"/>
+    <SubTexture name="Happy0000" x="676" y="66" width="539" height="476" />
+    <SubTexture name="Sad0000" x="1306" y="66" width="539" height="476"/>
+    <SubTexture name="Blush0000" x="1960" y="66" width="539" height="476"/>
+    <SubTexture name="Confused0000" x="2664" y="66" width="539" height="476"/>
+</TextureAtlas>

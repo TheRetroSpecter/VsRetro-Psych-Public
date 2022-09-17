@@ -1,0 +1,36 @@
+:setFont:vcr.ttf|40
+:bf-ace:Blush:I feel woozy.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Oops! I may have pricked you with my truth serum during that song.
+:sakuroma:Flirt:Now tell us. Who's the better one in bed? Me or Retro?
+
+:setFont:vcr.ttf|40
+:bf-ace:Sad:Uhhhhh.
+
+:setFont:aApiNyala.ttf|60
+:zerktro:Laughing:OH THIS IS GONNA BE INTERESTING.
+
+:setFont:vcr.ttf|40
+:bf-ace:Sad:Ummm.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Menacing:Yes? Spit it out!
+:sakuroma:Horny:TELL US ACE. DO IT!
+
+:setFont:vcr.ttf|40
+:bf-ace:Sad:...
+:startTextShake:3|2
+:setFont:vcr.ttf|130
+:bf-ace:Blush:A-ATROCEAN!
+
+:startTextShake:0|0
+:setFont:Blenda Script.otf|40
+:sakuroma:Angry:What.
+
+:setFont:aApiNyala.ttf|60
+:zerktro:Blush:Agreed.
+
+:startTextShake:3|2
+:setFont:Blenda Script.otf|100
+:sakuroma:Enraged:What the FUCK???

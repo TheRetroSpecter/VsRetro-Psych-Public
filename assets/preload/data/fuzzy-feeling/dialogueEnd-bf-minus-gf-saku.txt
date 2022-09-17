@@ -1,0 +1,26 @@
+:setFont:vcr.ttf|40
+:minus-bf:Miss:Beep boop?
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:Did it work?
+
+:setFont:Blenda Script.otf|40
+:sakuroma-gf:Happy:I think it did! Yay!
+
+:setFont:vcr.ttf|40
+:minus-bf:Flushed:B-boops...
+
+:setFont:Blenda Script.otf|40
+:sakuroma-gf:Angry:Oh no.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:Uh oh.
+
+:setFont:vcr.ttf|40
+:minus-bf:Flushed:B-b-bo-boo-
+
+:setFont:vcr.ttf|50
+:minus-bf:Booba:BOOPA
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Enraged:Oh COME ON.

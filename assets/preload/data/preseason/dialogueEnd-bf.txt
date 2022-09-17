@@ -1,0 +1,10 @@
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Neutral:Not bad, runt. I'll see you in a few weeks for our REAL match.
+:minus-retro:Smug:I've got you in my sites.
+:setFont:vcr.ttf|40
+:minus-bf:Smug:*Beep.
+:setFont:EastSeaDokdo.ttf|60
+:startTextShake:0.5|0.5
+:minus-retro:Annoyed:*SIGHTS. UGHHHH--
+:startTextShake:2|1
+:minus-retro:Angry:YOU KNOW WHAT? THAT'S IT-

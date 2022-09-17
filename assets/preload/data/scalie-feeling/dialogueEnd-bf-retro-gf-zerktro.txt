@@ -1,0 +1,7 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:My soft voice goes well against your hard gruff voice~
+:setFont:aApiNyala.ttf|70
+:zerktro-L:Laugh:CAN YOU CRUSH MY BALLS-
+:sakuroma:Horny:I THOUGHT YOU'D NEVER ASK-
+:setFont:vcr.ttf|40
+:bf-retro:Flushed:I'm just gonna walk over here now.

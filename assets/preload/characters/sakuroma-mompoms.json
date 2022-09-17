@@ -1,0 +1,103 @@
+{
+	"extraImages": [
+		"characters/Saku_Encourage"
+	],
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "saku idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				-5
+			],
+			"loop": true,
+			"anim": "laugh",
+			"fps": 24,
+			"name": "saku giggle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-1
+			],
+			"loop": false,
+			"anim": "encourage",
+			"fps": 24,
+			"name": "saku encourage",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-270
+			],
+			"loop": true,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "saku down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				0
+			],
+			"loop": true,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "saku left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-52,
+				117
+			],
+			"loop": true,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "saku up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				-38
+			],
+			"loop": true,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "saku right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sakuroma",
+	"position": [
+		-150,
+		-130
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		54,
+		107
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

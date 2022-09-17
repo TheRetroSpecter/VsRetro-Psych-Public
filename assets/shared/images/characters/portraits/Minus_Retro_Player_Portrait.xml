@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Minus_Retro_Player_Portrait.png" width="5255" height="512">
+  <SubTexture name="Angry0000" x="1" y="1"  width="638" height="481" frameX="-4" frameY="-33" frameWidth="651" frameHeight="514"/>
+  <SubTexture name="Annoyed0000" x="641" y="1"  width="463" height="484" frameX="-15" frameY="-30" frameWidth="514" frameHeight="514"/>
+  <SubTexture name="Flushed0000" x="1106" y="1"  width="463" height="503" frameX="-15" frameY="-11" frameWidth="514" frameHeight="514"/>
+  <SubTexture name="Happy0000" x="1571" y="1"  width="463" height="503" frameX="-15" frameY="-11" frameWidth="514" frameHeight="514"/>
+  <SubTexture name="Smug0000" x="2036" y="1"  width="463" height="503" frameX="-15" frameY="-11" frameWidth="514" frameHeight="514"/>
+  <SubTexture name="Ball0000" x="2501" y="1"  width="623" height="503" frameX="-15" frameY="-11" frameWidth="638" frameHeight="514"/>
+  <SubTexture name="Ball20000" x="3126" y="1"  width="623" height="503" frameX="-15" frameY="-11" frameWidth="638" frameHeight="514"/>
+  <SubTexture name="Neutral0000" x="3751" y="1"  width="463" height="509" frameX="-15" frameY="-5" frameWidth="514" frameHeight="514"/>
+  <SubTexture name="Confused0000" x="4216" y="1"  width="521" height="510" frameX="-15" frameY="-4" frameWidth="546" frameHeight="514"/>
+  <SubTexture name="Surprised0000" x="4739" y="1"  width="515" height="510" frameX="-15" frameY="-4" frameWidth="546" frameHeight="514"/>
+</TextureAtlas>

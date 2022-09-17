@@ -1,0 +1,29 @@
+:startTextShake:2|1
+:setFont:EastSeaDokdo.ttf|80
+:retro:Angry:God, I'm just so... FUCKING ANGRY!
+:startTextShake:0|0
+:setFont:Blenda Script.otf|40
+:bf-saku:Confused:You okay, hun?
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Neutral:YEAH, NEED TO LET OFF STEAM? MINI SAKU AND I ARE LISTENING.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:It's just my dad, you know?
+:retro:Assertive:I didn't even want this job, but he's always putting pressure on me.
+:retro:Annoyed:Saying that if I don't do anything, I'll become a failure in life.
+:setFont:Blenda Script.otf|40
+:bf-saku:Eyeroll:Ouch, that's rough sweetie. I'm in a similar boat with my mother actually.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Really? That's surprising.
+:setFont:Blenda Script.otf|40
+:bf-saku:Eyeroll:Yeah, being adopted along with that bee woman-
+:bf-saku:Annoyed:Who is always tidy and responsible, and older. I'm always compared to her.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Damn. I'm sorry to hear that.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Sad:I ALSO RELATE.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Oh? How so?
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Talking:I'M YOU, DUMBASS.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Right. Anyways-

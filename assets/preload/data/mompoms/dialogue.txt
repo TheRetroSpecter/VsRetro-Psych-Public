@@ -1,0 +1,12 @@
+:setFont:Blenda Script.otf|40
+:minus-sakuroma-P:Sad:Wha... Where am I???
+:minus-sakuroma-P:Surprised:Oh my god, you look so pretty!
+:sakuroma:Neutral:Oh hello sweetie~. You look familiar... What's your name?
+:minus-sakuroma-P:Happy:I'm Maku, what's yours?
+:sakuroma:Flirt:Saku. Sakuroma.
+:minus-sakuroma-P:Surprised:C-Can I touch your neck fluff?
+:sakuroma:Thinking:I wouldn't advise that. Seems like this fabric of space-time is collapsing.
+:sakuroma:Thinking:Who knows what would happen if either of us tried to step across that line.
+:minus-sakuroma-P:Sad:Oh! Right...
+:minus-sakuroma-P:Neutral:Well, how do we get rid of it?
+:sakuroma:Flirt: Follow my lead, hun, this isn't my first rodeo.

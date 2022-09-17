@@ -1,0 +1,10 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:You sound very similar to someone I've met too. Have you heard of someone named "Boyfriend"?
+:setFont:vcr.ttf|40
+:minus-bf:Miss:Beep?
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:No? Oh well, it was worth a shot.
+:sakuroma:Neutral:Time for sex.
+:setFont:vcr.ttf|40
+:minus-bf:Booba:BOOBA.
+:minus-gf:Cheer:Blooba!

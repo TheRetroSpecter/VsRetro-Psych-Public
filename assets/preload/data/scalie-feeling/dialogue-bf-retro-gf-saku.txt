@@ -1,0 +1,18 @@
+:setFont:Blenda Script.otf|40
+:sakuromas:Horny:Horny:Oh myyyyy~
+:setFont:vcr.ttf|40
+:bf-retro:Flushed:Whoa, what--
+:setFont:Blenda Script.otf|40
+:sakuromas:Horny:Flirt:I know how you are with one of us. How will you react to two?
+:setFont:vcr.ttf|40
+:bf-retro:Confused:What's that supposed to mean--
+:setFont:Blenda Script.otf|40
+:sakuromas:Menacing:Menacing:Don't play dumb, darling. Two of us is probably all you've ever wanted.
+:setFont:vcr.ttf|40
+:bf-retro:Smug:Not complaining, but you don't gotta spell it out like that.
+:setFont:Blenda Script.otf|40
+:sakuromas:Thinking:Menacing:How will people ship us if I don't?
+:setFont:vcr.ttf|40
+:bf-retro:Confused:Fair point. Wanna sing?
+:setFont:Blenda Script.otf|40
+:sakuromas:Blush:Happy:I'm always down to sing with you sweetie~

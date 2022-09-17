@@ -1,0 +1,22 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Oh no...
+:setFont:vcr.ttf|40
+:bf-ace:Confused:Huh?
+:setFont:EastSeaDokdo.ttf|60
+:ace-L:Confused:Huh?
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:TWO ACES?
+:startTextShake:0|0
+:setFont:EastSeaDokdo.ttf|60
+:ace:Shocked:Oh cool!
+:setFont:vcr.ttf|40
+:bf-ace:Happy:Oh sweet!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Nope. Get out both of you. I can only handle one.
+:setFont:EastSeaDokdo.ttf|60
+:ace-L:Blush:We know.
+:setFont:vcr.ttf|40
+:bf-ace:Blush:We know.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:...

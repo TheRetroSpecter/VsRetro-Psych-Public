@@ -1,0 +1,18 @@
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Neutral:HEY SAKU.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Yes Retro?
+
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Talking:WHY DON'T YOU WEAR ANY CLOTHES?
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:To show off ALL this, hun~.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Smug:NAH THAT'S NOT IT. TELL ME THE REAL REASON.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Menacing:You better watch yourself, sweetie. I'm not in the mood for your games.
+:sakuroma:Happy:Anyways, singing time! This one's a classic.

@@ -1,0 +1,13 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Wanna grab a drink after this?
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Happy:Sure!
+:sakuroma-gf-L:Thinking:Somewhere other than McDemon's though? Preferably fancier?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Dammit, fine. Not too fancy though, I'm not exactly living lavish here.
+:retro:Neutral:Alright blue angel dude let's get this over with.
+:setFont:vcr.ttf|40
+:minus-bf:Miss:Boop?
+:startTextShake:2|1
+:setFont:EastSeaDokdo.ttf|80
+:retro:Angry:PISSED I ALREADY AM!

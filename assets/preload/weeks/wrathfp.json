@@ -1,0 +1,47 @@
+{
+	"songs": [
+		["Retro", "retro", [23, 216, 228]],
+		["Satisfracture", "retro", [23, 216, 228], ["Satisfracture Remix", "Satisflatter"]],
+		["Spectral", "zerktro", [58, 172, 180]],
+		["Ectospasm", "zerktro", [58, 172, 180], ["Ectogasm"]],
+		["Fuzzy Feeling", "sakuroma", [248, 54, 107], ["Fuzziest Feeling", "Scalie Feeling"]],
+		["Heartmelter", "sakuroma", [248, 54, 107]]
+	],
+
+	"songColors": [
+		"Ectogasm:0xf79e9e",
+		"Satisflatter:0xf79e9e",
+		"Fuzziest Feeling:0xf79e9e",
+		"Scalie Feeling:0x54e679",
+		"Satisfracture Remix:0xa09ef7"
+	],
+
+	"loadingScreens": [
+		"Retro:wrath/retro",
+		"Satisflatter:wrath-random",
+		"Satisfracture:wrath/satisfracture",
+		"Satisfracture Remix:wrath/satisfracture-remix",
+		"Spectral:wrath/spectral",
+		"Ectospasm:wrath/ectospasm",
+		"Ectogasm:wrath/ectospasm",
+		"Fuzzy Feeling:lust/fuzzy-feeling",
+		"Fuzziest Feeling:lust/fuzzy-feeling;lust/random1",
+		"Scalie Feeling:lust/fuzzy-feeling;lust/random1",
+		"Heartmelter:lust/heartmelter"
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Wrath",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

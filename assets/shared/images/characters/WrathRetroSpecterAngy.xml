@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WrathRetroSpecterAngy.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Enough0000" x="10" y="10" width="467" height="866" frameX="-2" frameY="0" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0001" x="487" y="10" width="467" height="866" frameX="0" frameY="0" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0002" x="964" y="10" width="460" height="866" frameX="-5" frameY="0" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0003" x="1434" y="10" width="460" height="863" frameX="-5" frameY="-3" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0004" x="1904" y="10" width="461" height="863" frameX="-3" frameY="-3" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0005" x="2375" y="10" width="461" height="862" frameX="-3" frameY="-4" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0006" x="2846" y="10" width="461" height="861" frameX="-3" frameY="-5" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0007" x="2846" y="10" width="461" height="861" frameX="-3" frameY="-5" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0008" x="3317" y="10" width="461" height="861" frameX="-3" frameY="-5" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0009" x="3788" y="10" width="461" height="858" frameX="-3" frameY="-8" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0010" x="4259" y="10" width="461" height="858" frameX="-3" frameY="-8" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0011" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0012" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0013" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0014" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0015" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0016" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0017" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0018" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0019" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0020" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Enough0021" x="4730" y="10" width="461" height="859" frameX="-3" frameY="-7" frameWidth="469" frameHeight="866"/>
+	<SubTexture name="Retro Down Note instance 10000" x="5201" y="10" width="706" height="798" frameX="0" frameY="-17" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10001" x="5201" y="10" width="706" height="798" frameX="0" frameY="-17" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10002" x="5917" y="10" width="673" height="802" frameX="-36" frameY="-13" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10003" x="5917" y="10" width="673" height="802" frameX="-36" frameY="-13" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10004" x="6600" y="10" width="641" height="816" frameX="-70" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10005" x="6600" y="10" width="641" height="816" frameX="-70" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10006" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10007" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10008" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10009" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10010" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10011" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10012" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10013" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro Down Note instance 10014" x="7251" y="10" width="645" height="816" frameX="-66" frameY="0" frameWidth="711" frameHeight="816"/>
+	<SubTexture name="Retro IDLE0000" x="10" y="886" width="452" height="857" frameX="-2" frameY="-3" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0001" x="10" y="886" width="452" height="857" frameX="-2" frameY="-3" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0002" x="472" y="886" width="453" height="856" frameX="0" frameY="-4" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0003" x="472" y="886" width="453" height="856" frameX="0" frameY="-4" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0004" x="935" y="886" width="451" height="859" frameX="-10" frameY="-1" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0005" x="935" y="886" width="451" height="859" frameX="-10" frameY="-1" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0006" x="1396" y="886" width="450" height="860" frameX="-12" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0007" x="1396" y="886" width="450" height="860" frameX="-12" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0008" x="1856" y="886" width="451" height="860" frameX="-11" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0009" x="1856" y="886" width="451" height="860" frameX="-11" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0010" x="1856" y="886" width="451" height="860" frameX="-11" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0011" x="1856" y="886" width="451" height="860" frameX="-11" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0012" x="1856" y="886" width="451" height="860" frameX="-11" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0013" x="1856" y="886" width="451" height="860" frameX="-11" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro IDLE0014" x="1856" y="886" width="451" height="860" frameX="-11" frameY="0" frameWidth="462" frameHeight="860"/>
+	<SubTexture name="Retro LEFT0000" x="2317" y="886" width="548" height="821" frameX="0" frameY="0" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0001" x="2317" y="886" width="548" height="821" frameX="0" frameY="0" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0002" x="2875" y="886" width="557" height="818" frameX="-7" frameY="-3" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0003" x="2875" y="886" width="557" height="818" frameX="-7" frameY="-3" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0004" x="3442" y="886" width="577" height="815" frameX="-10" frameY="-6" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0005" x="3442" y="886" width="577" height="815" frameX="-10" frameY="-6" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0006" x="4029" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0007" x="4029" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0008" x="4608" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0009" x="4608" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0010" x="4608" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0011" x="4608" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0012" x="4608" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0013" x="4608" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro LEFT0014" x="4608" y="886" width="569" height="814" frameX="-14" frameY="-7" frameWidth="587" frameHeight="821"/>
+	<SubTexture name="Retro RIGHT0000" x="5187" y="886" width="669" height="847" frameX="-23" frameY="0" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0001" x="5187" y="886" width="669" height="847" frameX="-23" frameY="0" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0002" x="5866" y="886" width="645" height="845" frameX="-13" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0003" x="5866" y="886" width="645" height="845" frameX="-13" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0004" x="6521" y="886" width="616" height="844" frameX="-4" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0005" x="6521" y="886" width="616" height="844" frameX="-4" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0006" x="7147" y="886" width="632" height="844" frameX="0" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0007" x="7147" y="886" width="632" height="844" frameX="0" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0008" x="7147" y="886" width="632" height="844" frameX="0" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0009" x="7147" y="886" width="632" height="844" frameX="0" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0010" x="7147" y="886" width="632" height="844" frameX="0" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0011" x="7147" y="886" width="632" height="844" frameX="0" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0012" x="7147" y="886" width="632" height="844" frameX="0" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro RIGHT0013" x="7147" y="886" width="632" height="844" frameX="0" frameY="-3" frameWidth="692" frameHeight="848"/>
+	<SubTexture name="Retro UP0000" x="10" y="1756" width="606" height="912"/>
+	<SubTexture name="Retro UP0001" x="10" y="1756" width="606" height="912"/>
+	<SubTexture name="Retro UP0002" x="626" y="1756" width="584" height="891" frameX="-21" frameY="-21" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0003" x="626" y="1756" width="584" height="891" frameX="-21" frameY="-21" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0004" x="1220" y="1756" width="569" height="870" frameX="-35" frameY="-42" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0005" x="1220" y="1756" width="569" height="870" frameX="-35" frameY="-42" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0006" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0007" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0008" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0009" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0010" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0011" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0012" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0013" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+	<SubTexture name="Retro UP0014" x="1799" y="1756" width="572" height="868" frameX="-33" frameY="-44" frameWidth="606" frameHeight="912"/>
+</TextureAtlas>

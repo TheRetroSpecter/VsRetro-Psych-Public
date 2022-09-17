@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Corruptro_Medal.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BopingSymbol0000" x="10" y="10" width="294" height="294" frameX="-12" frameY="-20" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0001" x="314" y="10" width="319" height="319" frameX="0" frameY="-8" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0002" x="643" y="10" width="300" height="301" frameX="-9" frameY="-17" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0003" x="953" y="10" width="310" height="310" frameX="-4" frameY="-12" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0004" x="1273" y="10" width="294" height="294" frameX="-12" frameY="-20" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0005" x="1577" y="10" width="319" height="319" frameX="0" frameY="-8" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0006" x="10" y="339" width="300" height="315" frameX="-9" frameY="-3" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0007" x="320" y="339" width="310" height="319" frameX="-4" frameY="-3" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0008" x="640" y="339" width="294" height="314" frameX="-12" frameY="0" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0009" x="944" y="339" width="319" height="324" frameX="0" frameY="-3" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0010" x="1273" y="339" width="300" height="315" frameX="-9" frameY="-3" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0011" x="1583" y="339" width="310" height="318" frameX="-4" frameY="-4" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0012" x="10" y="673" width="294" height="294" frameX="-12" frameY="-20" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0013" x="314" y="673" width="319" height="319" frameX="0" frameY="-8" frameWidth="319" frameHeight="327"/>
+	<SubTexture name="BopingSymbol0014" x="643" y="673" width="300" height="301" frameX="-9" frameY="-17" frameWidth="319" frameHeight="327"/>
+</TextureAtlas>

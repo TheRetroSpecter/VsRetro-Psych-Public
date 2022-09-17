@@ -1,0 +1,24 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Ace, can we talk~?
+
+:setFont:vcr.ttf|40
+:ace-L:Confused:Oh sure. What's up?
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:I feel like we should spend more time together.
+:sakuroma:Blush:We're always hanging out with Retro, but never with each other.
+
+:setFont:vcr.ttf|40
+:ace-L:Embarassed:Ah yeah. We really should hang out more.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:I heard from Retro you know how to make some really delicious ice cream.
+
+:setFont:vcr.ttf|40
+:ace-L:Shocked:He told you about that?
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Yes. Mind if I try some?
+
+:setFont:vcr.ttf|40
+:ace-L:Happy:Sure! We should probably see what this little dude wants first though.

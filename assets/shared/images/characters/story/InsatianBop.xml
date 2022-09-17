@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="InsatianBop.png" width="3428" height="671">
+  <SubTexture name="InsatianBop0000" x="4" y="4"  width="690" height="613" frameX="-5" frameY="-57" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0001" x="4" y="4"  width="690" height="613" frameX="-5" frameY="-57" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0002" x="702" y="4"  width="676" height="627" frameX="-12" frameY="-43" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0003" x="702" y="4"  width="676" height="627" frameX="-12" frameY="-43" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0004" x="1386" y="4"  width="675" height="636" frameX="-15" frameY="-34" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0005" x="1386" y="4"  width="675" height="636" frameX="-15" frameY="-34" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0006" x="2069" y="4"  width="675" height="654" frameX="-18" frameY="-16" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0007" x="2069" y="4"  width="675" height="654" frameX="-18" frameY="-16" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0008" x="2752" y="4"  width="672" height="663" frameX="-21" frameY="-7" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0009" x="2752" y="4"  width="672" height="663" frameX="-21" frameY="-7" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0010" x="2752" y="4"  width="672" height="663" frameX="-21" frameY="-7" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0011" x="2752" y="4"  width="672" height="663" frameX="-21" frameY="-7" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0012" x="2752" y="4"  width="672" height="663" frameX="-21" frameY="-7" frameWidth="698" frameHeight="670"/>
+  <SubTexture name="InsatianBop0013" x="2752" y="4"  width="672" height="663" frameX="-21" frameY="-7" frameWidth="698" frameHeight="670"/>
+</TextureAtlas>

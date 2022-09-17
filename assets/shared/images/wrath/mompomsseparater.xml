@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mompomsseparater.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dividerbitch instance 10000" x="10" y="10" width="263" height="1417"/>
+	<SubTexture name="dividerbitch instance 10001" x="10" y="10" width="263" height="1417"/>
+	<SubTexture name="dividerbitch instance 10002" x="10" y="10" width="263" height="1417"/>
+	<SubTexture name="dividerbitch instance 10003" x="283" y="10" width="213" height="1417" frameX="-34" frameY="0" frameWidth="263" frameHeight="1417"/>
+	<SubTexture name="dividerbitch instance 10004" x="283" y="10" width="213" height="1417" frameX="-34" frameY="0" frameWidth="263" frameHeight="1417"/>
+	<SubTexture name="dividerbitch instance 10005" x="283" y="10" width="213" height="1417" frameX="-34" frameY="0" frameWidth="263" frameHeight="1417"/>
+	<SubTexture name="dividerbitch instance 10006" x="506" y="10" width="199" height="1417" frameX="-34" frameY="0" frameWidth="263" frameHeight="1417"/>
+	<SubTexture name="dividerbitch instance 10007" x="506" y="10" width="199" height="1417" frameX="-34" frameY="0" frameWidth="263" frameHeight="1417"/>
+	<SubTexture name="dividerbitch instance 10008" x="506" y="10" width="199" height="1417" frameX="-34" frameY="0" frameWidth="263" frameHeight="1417"/>
+</TextureAtlas>

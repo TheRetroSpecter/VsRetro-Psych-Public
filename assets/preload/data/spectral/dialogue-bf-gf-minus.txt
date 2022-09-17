@@ -1,0 +1,16 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:No, you know what?
+:retro:Annoyed:I'm gonna question it.
+:setFont:vcr.ttf|40
+:bf:Neutral:Boopa.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:Why does she look like that?
+:setFont:vcr.ttf|40
+:minus-gf:Cheering:^^
+:setFont:EastSeaDokdo.ttf|80
+:startTextShake:2|1
+:retro:Angry:WHERE DID YOU GET POMPOMS?!?!
+:retro:Angry:THIS HURTS MY BRAIN. AGHHHHHHHH-
+:startTextShake:0|0
+:setFont:vcr.ttf|40
+:bf:Huh:Beepoh...

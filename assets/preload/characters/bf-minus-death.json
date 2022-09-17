@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				321, -13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies0"
+		},
+		{
+			"offsets": [
+				132, -13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop0"
+		},
+		{
+			"offsets": [
+				132, -9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/minus_bf/minus_bf_death",
+	"position": [
+		-10,
+		300
+	],
+	"healthicon": "bf-minus",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+
+	"hasChromatic": false,
+	"disableWrath": true
+}

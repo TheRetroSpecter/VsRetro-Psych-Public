@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="spectre_downnote_optim.png" width="5446" height="273">
+  <SubTexture name="SpecterArrowDown0000.png" x="4" y="4"  width="162" height="214" frameX="-0" frameY="-50" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowLeft0000.png" x="174" y="4"  width="162" height="214" frameX="-2" frameY="-50" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowRight0000.png" x="344" y="4"  width="163" height="214" frameX="-0" frameY="-50" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0000.png" x="515" y="4"  width="162" height="214" frameX="-0" frameY="-50" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowLeft0002.png" x="685" y="4"  width="163" height="226" frameX="-1" frameY="-38" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowDown0002.png" x="856" y="4"  width="162" height="227" frameX="-0" frameY="-38" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0002.png" x="1026" y="4"  width="163" height="227" frameX="-0" frameY="-38" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0002.png" x="1197" y="4"  width="162" height="227" frameX="-0" frameY="-38" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowLeft0004.png" x="1367" y="4"  width="160" height="240" frameX="-4" frameY="-24" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowDown0004.png" x="1535" y="4"  width="159" height="241" frameX="-5" frameY="-24" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0004.png" x="1702" y="4"  width="159" height="241" frameX="-5" frameY="-24" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0004.png" x="1869" y="4"  width="159" height="241" frameX="-5" frameY="-24" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0010.png" x="2036" y="4"  width="162" height="243" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowLeft0008.png" x="2206" y="4"  width="163" height="243" frameX="-1" frameY="-21" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowLeft0010.png" x="2377" y="4"  width="162" height="243" frameX="-2" frameY="-21" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowRight0010.png" x="2547" y="4"  width="163" height="243" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0010.png" x="2718" y="4"  width="162" height="243" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0008.png" x="2888" y="4"  width="162" height="244" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0008.png" x="3058" y="4"  width="163" height="244" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0008.png" x="3229" y="4"  width="162" height="244" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0006.png" x="3399" y="4"  width="164" height="245" frameX="-0" frameY="-19" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0006.png" x="3571" y="4"  width="164" height="246" frameX="-0" frameY="-18" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowLeft0006.png" x="3743" y="4"  width="162" height="246" frameX="-2" frameY="-18" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowRight0006.png" x="3913" y="4"  width="164" height="246" frameX="-0" frameY="-18" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0012.png" x="4085" y="4"  width="161" height="255" frameX="-0" frameY="-9" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowLeft0012.png" x="4254" y="4"  width="161" height="255" frameX="-2" frameY="-9" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowRight0012.png" x="4423" y="4"  width="163" height="255" frameX="-0" frameY="-9" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0012.png" x="4594" y="4"  width="161" height="255" frameX="-0" frameY="-9" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowLeft0014.png" x="4763" y="4"  width="163" height="264" frameX="-1" frameY="-0" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowDown0014.png" x="4934" y="4"  width="164" height="265" frameX="-0" frameY="-0" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0014.png" x="5106" y="4"  width="164" height="265" frameX="-0" frameY="-0" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0014.png" x="5278" y="4"  width="164" height="265" frameX="-0" frameY="-0" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0001.png" x="4" y="4"  width="162" height="214" frameX="-0" frameY="-50" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0003.png" x="856" y="4"  width="162" height="227" frameX="-0" frameY="-38" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0005.png" x="1535" y="4"  width="159" height="241" frameX="-5" frameY="-24" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0007.png" x="3571" y="4"  width="164" height="246" frameX="-0" frameY="-18" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0009.png" x="2888" y="4"  width="162" height="244" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0011.png" x="2036" y="4"  width="162" height="243" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0013.png" x="4085" y="4"  width="161" height="255" frameX="-0" frameY="-9" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowDown0015.png" x="4934" y="4"  width="164" height="265" frameX="-0" frameY="-0" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowLeft0001.png" x="174" y="4"  width="162" height="214" frameX="-2" frameY="-50" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowLeft0003.png" x="685" y="4"  width="163" height="226" frameX="-1" frameY="-38" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowLeft0005.png" x="1367" y="4"  width="160" height="240" frameX="-4" frameY="-24" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowLeft0007.png" x="3743" y="4"  width="162" height="246" frameX="-2" frameY="-18" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowLeft0009.png" x="2206" y="4"  width="163" height="243" frameX="-1" frameY="-21" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowLeft0011.png" x="2377" y="4"  width="162" height="243" frameX="-2" frameY="-21" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowLeft0013.png" x="4254" y="4"  width="161" height="255" frameX="-2" frameY="-9" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowLeft0015.png" x="4763" y="4"  width="163" height="264" frameX="-1" frameY="-0" frameWidth="164" frameHeight="264"/>
+  <SubTexture name="SpecterArrowRight0001.png" x="344" y="4"  width="163" height="214" frameX="-0" frameY="-50" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0003.png" x="1026" y="4"  width="163" height="227" frameX="-0" frameY="-38" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0005.png" x="1702" y="4"  width="159" height="241" frameX="-5" frameY="-24" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0007.png" x="3913" y="4"  width="164" height="246" frameX="-0" frameY="-18" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0009.png" x="3058" y="4"  width="163" height="244" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0011.png" x="2547" y="4"  width="163" height="243" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0013.png" x="4423" y="4"  width="163" height="255" frameX="-0" frameY="-9" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowRight0015.png" x="5106" y="4"  width="164" height="265" frameX="-0" frameY="-0" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0001.png" x="515" y="4"  width="162" height="214" frameX="-0" frameY="-50" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0003.png" x="1197" y="4"  width="162" height="227" frameX="-0" frameY="-38" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0005.png" x="1869" y="4"  width="159" height="241" frameX="-5" frameY="-24" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0007.png" x="3399" y="4"  width="164" height="245" frameX="-0" frameY="-19" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0009.png" x="3229" y="4"  width="162" height="244" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0011.png" x="2718" y="4"  width="162" height="243" frameX="-0" frameY="-21" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0013.png" x="4594" y="4"  width="161" height="255" frameX="-0" frameY="-9" frameWidth="164" frameHeight="265"/>
+  <SubTexture name="SpecterArrowUp0015.png" x="5278" y="4"  width="164" height="265" frameX="-0" frameY="-0" frameWidth="164" frameHeight="265"/>
+</TextureAtlas>

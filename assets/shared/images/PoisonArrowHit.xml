@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="PoisonHit-optim.png" width="3889" height="217">
+  <SubTexture name="Poison Arrow Hit Left0008" x="5" y="5"  width="206" height="149" frameX="-71" frameY="-164" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0008" x="221" y="5"  width="206" height="150" frameX="-129" frameY="-144" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0000" x="437" y="5"  width="182" height="166" frameX="-99" frameY="-152" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0000" x="629" y="5"  width="182" height="167" frameX="-125" frameY="-139" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0002" x="821" y="5"  width="187" height="176" frameX="-93" frameY="-149" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0002" x="1018" y="5"  width="187" height="177" frameX="-126" frameY="-132" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0000" x="1215" y="5"  width="166" height="182" frameX="-127" frameY="-150" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0000" x="1391" y="5"  width="167" height="183" frameX="-114" frameY="-124" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0004" x="1568" y="5"  width="193" height="186" frameX="-85" frameY="-144" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0002" x="1771" y="5"  width="176" height="187" frameX="-124" frameY="-151" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0004" x="1957" y="5"  width="193" height="187" frameX="-128" frameY="-127" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0002" x="2160" y="5"  width="177" height="188" frameX="-107" frameY="-118" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0004" x="2347" y="5"  width="186" height="193" frameX="-119" frameY="-153" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0004" x="2543" y="5"  width="187" height="194" frameX="-102" frameY="-110" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0006" x="2740" y="5"  width="199" height="198" frameX="-79" frameY="-139" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0006" x="2949" y="5"  width="198" height="199" frameX="-114" frameY="-153" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0006" x="3157" y="5"  width="199" height="199" frameX="-128" frameY="-120" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0006" x="3366" y="5"  width="199" height="200" frameX="-95" frameY="-104" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0008" x="3575" y="5"  width="149" height="206" frameX="-139" frameY="-154" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0008" x="3734" y="5"  width="150" height="207" frameX="-119" frameY="-96" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0001" x="1215" y="5"  width="166" height="182" frameX="-127" frameY="-150" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0003" x="1771" y="5"  width="176" height="187" frameX="-124" frameY="-151" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0005" x="2347" y="5"  width="186" height="193" frameX="-119" frameY="-153" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0007" x="2949" y="5"  width="198" height="199" frameX="-114" frameY="-153" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Down0009" x="3575" y="5"  width="149" height="206" frameX="-139" frameY="-154" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0001" x="437" y="5"  width="182" height="166" frameX="-99" frameY="-152" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0003" x="821" y="5"  width="187" height="176" frameX="-93" frameY="-149" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0005" x="1568" y="5"  width="193" height="186" frameX="-85" frameY="-144" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0007" x="2740" y="5"  width="199" height="198" frameX="-79" frameY="-139" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Left0009" x="5" y="5"  width="206" height="149" frameX="-71" frameY="-164" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0001" x="629" y="5"  width="182" height="167" frameX="-125" frameY="-139" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0003" x="1018" y="5"  width="187" height="177" frameX="-126" frameY="-132" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0005" x="1957" y="5"  width="193" height="187" frameX="-128" frameY="-127" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0007" x="3157" y="5"  width="199" height="199" frameX="-128" frameY="-120" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Right0009" x="221" y="5"  width="206" height="150" frameX="-129" frameY="-144" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0001" x="1391" y="5"  width="167" height="183" frameX="-114" frameY="-124" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0003" x="2160" y="5"  width="177" height="188" frameX="-107" frameY="-118" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0005" x="2543" y="5"  width="187" height="194" frameX="-102" frameY="-110" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0007" x="3366" y="5"  width="199" height="200" frameX="-95" frameY="-104" frameWidth="404" frameHeight="404"/>
+  <SubTexture name="Poison Arrow Hit Up0009" x="3734" y="5"  width="150" height="207" frameX="-119" frameY="-96" frameWidth="404" frameHeight="404"/>
+</TextureAtlas>

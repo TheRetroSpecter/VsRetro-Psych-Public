@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Saku_Menu.png" width="7040" height="1987">
+  <SubTexture name="saku idle0000.png" x="6142" y="4"  width="894" height="973" frameX="-59" frameY="-14" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0001.png" x="4166" y="986"  width="816" height="956" frameX="-103" frameY="-31" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0002.png" x="3116" y="998"  width="805" height="948" frameX="-109" frameY="-39" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0003.png" x="5154" y="975"  width="805" height="963" frameX="-109" frameY="-24" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0004.png" x="5154" y="4"  width="980" height="963" frameX="-26" frameY="-24" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0005.png" x="4166" y="4"  width="980" height="974" frameX="-26" frameY="-13" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0006.png" x="2098" y="4"  width="1026" height="982" frameX="-6" frameY="-5" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0007.png" x="3132" y="4"  width="1026" height="986" frameX="-6" frameY="-1" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0008.png" x="1051" y="4"  width="1039" height="987" frameX="-0" frameY="-0" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0009.png" x="4" y="4"  width="1039" height="987" frameX="-0" frameY="-0" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0010.png" x="4" y="999"  width="1010" height="984" frameX="-14" frameY="-3" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0011.png" x="2098" y="994"  width="1010" height="984" frameX="-14" frameY="-3" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0012.png" x="1022" y="999"  width="984" height="981" frameX="-28" frameY="-6" frameWidth="1039" frameHeight="987"/>
+  <SubTexture name="saku idle0013.png" x="1022" y="999"  width="984" height="981" frameX="-28" frameY="-6" frameWidth="1039" frameHeight="987"/>
+</TextureAtlas>

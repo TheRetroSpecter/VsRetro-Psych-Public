@@ -1,0 +1,14 @@
+:setFont:Blenda Script.otf|40
+:bf-saku:Flirt:This is fun and all, but how about you boys come back to my place for some REAL fun?
+:setFont:vcr.ttf|40
+:ace:Annoyed:You are like 2 feet tall.
+:setFont:Blenda Script.otf|40
+:bf-saku:Annoyed:I'm 5'5". You guys are just so freakishly tall.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:I mean hey, size difference.
+:setFont:vcr.ttf|40
+:ace-L:Blush:True.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Speaking of-
+:setFont:Blenda Script.otf|40
+:bf-saku:Miss:Wuh-

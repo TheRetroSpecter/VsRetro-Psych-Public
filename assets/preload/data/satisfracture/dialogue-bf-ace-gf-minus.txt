@@ -1,0 +1,11 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Why do you choose to be in that form?
+:setFont:vcr.ttf|40
+:bf-ace:Confused:What, my "BF" form?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Yes.
+:setFont:vcr.ttf|40
+:bf-ace:Happy:I'm small, portable, and compact!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Does this mean I can throw you against a wall?
+:bf-ace:Blush:M-Maybe...

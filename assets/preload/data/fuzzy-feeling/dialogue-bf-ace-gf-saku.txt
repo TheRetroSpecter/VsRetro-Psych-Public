@@ -1,0 +1,10 @@
+:setFont:Blenda Script.otf|40
+:sakuromas:Blush:Blush:Helloooooo~
+:setFont:vcr.ttf|40
+:bf-ace:Confused:Whoa. Why are there two of you?
+:setFont:Blenda Script.otf|40
+:sakuromas:Thinking:Menacing:Are you complaining?
+:setFont:vcr.ttf|40
+:bf-ace:Blush:No, not at all.
+:setFont:Blenda Script.otf|40
+:sakuromas:Flirt:Blush:That's what we thought.

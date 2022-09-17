@@ -1,0 +1,28 @@
+:setFont:Exquisite Corpse.ttf|45
+:corruptro:Neutral:IMPRESSIVE. THE CRYSTALLIZATION SHOULD HAVE RIPPED YOU APART FROM THE INSIDE BY NOW.
+
+:setFont:vcr.ttf|40
+:bf-corrupt:Neutral:BEEP BOOP.
+
+:setFont:Exquisite Corpse.ttf|45
+:corruptro:Neutral:SO YOU'RE AWARE OF MY LITTLE SIMULATION?
+
+:setFont:vcr.ttf|40
+:bf-corrupt:Neutral:BOP.
+
+:setFont:Exquisite Corpse.ttf|45
+:corruptro:Neutral:AHAHA... I LOVE THE ONES THAT SQUIRM IN THEIR SLUMBER.
+
+:setFont:vcr.ttf|40
+:bf-corrupt:Neutral:BEEP BOP BOOP.
+
+:setFont:Exquisite Corpse.ttf|45
+:corruptro:Neutral:WELL, THIS WAS INTRIGUING.
+:corruptro:Neutral:NEXT SUBJECT.
+
+:setFont:vcr.ttf|40
+:bf-corrupt:Neutral:BOOP...?
+
+:setFont:Exquisite Corpse.ttf|45
+:corruptro:Neutral:...
+:corruptro:Crys:*crys* why...

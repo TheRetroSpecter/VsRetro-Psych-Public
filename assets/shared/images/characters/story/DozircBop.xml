@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="DozircBop.png" width="3386" height="627">
+  <SubTexture name="bop0000" x="4" y="4"  width="734" height="618" frameX="-2" frameY="-35" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0001" x="4" y="4"  width="734" height="618" frameX="-2" frameY="-35" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0002" x="1411" y="4"  width="655" height="616" frameX="-29" frameY="-7" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0003" x="1411" y="4"  width="655" height="616" frameX="-29" frameY="-7" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0004" x="2737" y="4"  width="645" height="619" frameX="-35" frameY="-2" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0005" x="2737" y="4"  width="645" height="619" frameX="-35" frameY="-2" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0006" x="2074" y="4"  width="655" height="616" frameX="-25" frameY="-5" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0007" x="2074" y="4"  width="655" height="616" frameX="-25" frameY="-5" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0008" x="746" y="4"  width="657" height="616" frameX="-23" frameY="-5" frameWidth="738" frameHeight="655"/>
+  <SubTexture name="bop0009" x="746" y="4"  width="657" height="616" frameX="-23" frameY="-5" frameWidth="738" frameHeight="655"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Minus_Atro_Portrait.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Neutral0000" x="10" y="10" width="643" height="554" frameX="0" frameY="84" frameWidth="650" frameHeight="600"/>
+	<SubTexture name="Surprised0000" x="663" y="10" width="643" height="618" frameX="0" frameY="148" frameWidth="650" frameHeight="618"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Oh it's-
+:retro:Confused:Wait. Saku, what are you doing here?
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Happy:Hey, Retro~! I just thought I'd sit back and watch you two.
+:setFont:vcr.ttf|40
+:bf:Neutral:Beep!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Then where's...
+:retro:Assertive:Whatever, just please don't be weird.
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Flirt:No promises.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Ugh.
+:setFont:vcr.ttf|40
+:bf:Smug:Boopa.

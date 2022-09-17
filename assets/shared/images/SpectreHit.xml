@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SpectreHit-optim.png" width="1816" height="1574">
+  <SubTexture name="SpectreHit up0003" x="5" y="5"  width="234" height="337" frameX="-60" frameY="-2" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit left0003" x="249" y="5"  width="234" height="336" frameX="-61" frameY="-7" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit left0004" x="5" y="352"  width="229" height="334" frameX="-64" frameY="-7" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit up0004" x="244" y="352"  width="230" height="334" frameX="-62" frameY="-2" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit left0002" x="493" y="5"  width="229" height="328" frameX="-66" frameY="-11" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit up0002" x="493" y="343"  width="229" height="328" frameX="-65" frameY="-6" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit left0005" x="5" y="696"  width="229" height="317" frameX="-64" frameY="-7" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit up0005" x="244" y="696"  width="230" height="317" frameX="-62" frameY="-2" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit left0006" x="484" y="681"  width="227" height="316" frameX="-65" frameY="-8" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit up0006" x="732" y="5"  width="227" height="316" frameX="-64" frameY="-3" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit left0007" x="732" y="331"  width="225" height="314" frameX="-66" frameY="-9" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit up0007" x="732" y="655"  width="225" height="314" frameX="-65" frameY="-4" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit down0001" x="969" y="5"  width="225" height="308" frameX="-70" frameY="-12" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit right0001" x="969" y="323"  width="224" height="308" frameX="-48" frameY="-12" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit up0001" x="967" y="641"  width="225" height="306" frameX="-65" frameY="-13" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit down0003" x="5" y="1023"  width="303" height="280" frameX="-3" frameY="-59" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit right0004" x="318" y="1023"  width="303" height="276" frameX="-37" frameY="-61" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit right0005" x="631" y="1007"  width="303" height="259" frameX="-37" frameY="-61" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit down0004" x="1204" y="5"  width="302" height="276" frameX="-3" frameY="-61" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit down0005" x="1204" y="291"  width="302" height="259" frameX="-3" frameY="-61" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit down0006" x="1203" y="560"  width="302" height="256" frameX="-3" frameY="-63" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit right0003" x="1202" y="826"  width="302" height="280" frameX="-37" frameY="-59" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit right0006" x="5" y="1313"  width="301" height="256" frameX="-38" frameY="-63" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit down0007" x="316" y="1313"  width="300" height="254" frameX="-4" frameY="-65" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit right0007" x="626" y="1309"  width="300" height="254" frameX="-39" frameY="-65" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit down0002" x="936" y="1276"  width="295" height="271" frameX="-7" frameY="-64" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit right0002" x="1516" y="5"  width="295" height="271" frameX="-41" frameY="-64" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit left0001" x="1516" y="286"  width="285" height="249" frameX="-14" frameY="-75" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit left0000" x="944" y="979"  width="242" height="281" frameX="-55" frameY="-55" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit up0000" x="1516" y="545"  width="241" height="276" frameX="-58" frameY="-49" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit down0000" x="1514" y="831"  width="272" height="273" frameX="-40" frameY="-60" frameWidth="342" frameHeight="346"/>
+  <SubTexture name="SpectreHit right0000" x="1514" y="1114"  width="243" height="273" frameX="-54" frameY="-52" frameWidth="342" frameHeight="346"/>
+</TextureAtlas>

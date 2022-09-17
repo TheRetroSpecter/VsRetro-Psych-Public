@@ -1,0 +1,15 @@
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Neutral:That was fun, but it's getting cold out here.
+:minus-sakuroma:Happy: Can we go get some coffee with Mace?
+
+:setFont:EastSeaDokdo.ttf|60
+:metro-player:Smug:Hell yeah. Double Caramel Frappe for me.
+
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Surprised:Huh, not the kind of coffee I'd expect you of all people to get.
+
+:setFont:EastSeaDokdo.ttf|60
+:metro-player:Confused:What's that supposed to mean!?
+
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Giggling:Teehee, nothing! Let's go!

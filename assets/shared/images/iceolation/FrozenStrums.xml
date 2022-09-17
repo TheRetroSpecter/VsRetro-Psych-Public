@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="FrozenStrums.png" width="323" height="334">
+  <SubTexture name="arrowFrozenLEFT0000" x="1" y="1"  width="160" height="168" frameX="-0" frameY="-0" frameWidth="160" frameHeight="168"/>
+  <SubTexture name="arrowFrozenRIGHT0000" x="163" y="1"  width="159" height="170" frameX="-0" frameY="-0" frameWidth="159" frameHeight="170"/>
+  <SubTexture name="arrowFrozenUP0000" x="1" y="171"  width="160" height="162" frameX="-0" frameY="-0" frameWidth="160" frameHeight="162"/>
+  <SubTexture name="arrowFrozenDOWN0000" x="163" y="173"  width="159" height="158" frameX="-0" frameY="-0" frameWidth="159" frameHeight="158"/>
+</TextureAtlas>

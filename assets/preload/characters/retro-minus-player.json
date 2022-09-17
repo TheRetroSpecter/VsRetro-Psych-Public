@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-10
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Minus Retro Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-145
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Minus Retro Down Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				357,
+				52
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Minus Retro Left Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				138
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Minus Retro Up Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				11
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Minus Retro Right Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-128
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"scale": 1,
+			"name": "Minus Retro Down Note MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				357,
+				50
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Minus Retro Left Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				138
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Minus Retro Up Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				10
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Minus Retro Right Note MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/minus_retro_player",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "retro-minus",
+	"flip_x": true,
+	"healthbar_colors": [
+		23,
+		216,
+		228
+	],
+	"camera_position": [
+		70,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

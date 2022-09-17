@@ -1,0 +1,33 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				125, 0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/story/DozircBop",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dozirc",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

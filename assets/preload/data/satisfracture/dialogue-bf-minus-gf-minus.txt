@@ -1,0 +1,12 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:So what, are you guys like a Romeo & Juliet sort of deal or...?
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Beep!
+:minus-gf:Happy:[Happy]
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:I literally have no idea what you two are saying.
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Beep boop bop. Beepity Brappity Skoopity Skappity. Brip Brop Broop Brap. Beepo Bopbeep boh bee bop bop brap boop beep booba bap brop boop beep skip skap skoop skop. Brap! Boop! Brop!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:...
+:retro:Eyeroll:Whatever let's just sing.

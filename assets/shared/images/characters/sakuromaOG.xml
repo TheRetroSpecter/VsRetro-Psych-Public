@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="sakuromaOG.png" width="5187" height="5444">
+  <SubTexture name="cameraShit0000"	x="0"	y="0"	width="785" height="1054"/>
+  <SubTexture name="Saku Giggle0000" x="3501" y="950"  width="650" height="938" frameX="-101" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0001" x="3501" y="950"  width="650" height="938" frameX="-101" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0002" x="2843" y="950"  width="650" height="938" frameX="-101" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0003" x="2843" y="950"  width="650" height="938" frameX="-101" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0004" x="2102" y="977"  width="733" height="938" frameX="-59" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0005" x="2102" y="977"  width="733" height="938" frameX="-59" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0006" x="2701" y="1923"  width="780" height="938" frameX="-37" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0007" x="2701" y="1923"  width="780" height="938" frameX="-37" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0008" x="4" y="3029"  width="815" height="938" frameX="-22" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0009" x="4" y="3029"  width="815" height="938" frameX="-22" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0010" x="2701" y="2869"  width="838" height="938" frameX="-8" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0011" x="2701" y="2869"  width="838" height="938" frameX="-8" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0012" x="827" y="2910"  width="851" height="938" frameX="-0" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0013" x="827" y="2910"  width="851" height="938" frameX="-0" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0014" x="1686" y="2892"  width="853" height="938" frameX="-0" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0015" x="1686" y="2892"  width="853" height="938" frameX="-0" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0016" x="3588" y="4"  width="853" height="938" frameX="-0" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0017" x="3588" y="4"  width="853" height="938" frameX="-0" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0018" x="3489" y="1896"  width="834" height="938" frameX="-10" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0019" x="3489" y="1896"  width="834" height="938" frameX="-10" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0020" x="2791" y="4"  width="789" height="938" frameX="-38" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0021" x="2791" y="4"  width="789" height="938" frameX="-38" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0022" x="2043" y="1944"  width="650" height="938" frameX="-101" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0023" x="2043" y="1944"  width="650" height="938" frameX="-101" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0024" x="3547" y="2842"  width="650" height="934" frameX="-101" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="Saku Giggle0025" x="3547" y="2842"  width="650" height="934" frameX="-101" frameY="-0" frameWidth="853" frameHeight="938"/>
+  <SubTexture name="SakuDown0000" x="4332" y="2505"  width="759" height="553" frameX="-26" frameY="-286" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0001" x="4332" y="2505"  width="759" height="553" frameX="-26" frameY="-286" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0002" x="4" y="4881"  width="718" height="559" frameX="-44" frameY="-277" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0003" x="4" y="4881"  width="718" height="559" frameX="-44" frameY="-277" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0004" x="4332" y="4203"  width="749" height="560" frameX="-28" frameY="-276" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0005" x="4332" y="4203"  width="749" height="560" frameX="-28" frameY="-276" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0006" x="4332" y="3635"  width="751" height="560" frameX="-25" frameY="-276" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0007" x="4332" y="3635"  width="751" height="560" frameX="-25" frameY="-276" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0008" x="4332" y="3066"  width="752" height="561" frameX="-24" frameY="-275" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0009" x="4332" y="3066"  width="752" height="561" frameX="-24" frameY="-275" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0010" x="4332" y="3066"  width="752" height="561" frameX="-24" frameY="-275" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0011" x="4332" y="3066"  width="752" height="561" frameX="-24" frameY="-275" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0012" x="4332" y="3066"  width="752" height="561" frameX="-24" frameY="-275" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0013" x="4332" y="3066"  width="752" height="561" frameX="-24" frameY="-275" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuDown0014" x="4332" y="3066"  width="752" height="561" frameX="-24" frameY="-275" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0000" x="4" y="2070"  width="721" height="951" frameX="-53" frameY="-100" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0001" x="4" y="2070"  width="721" height="951" frameX="-53" frameY="-100" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0002" x="733" y="1013"  width="601" height="941" frameX="-107" frameY="-94" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0003" x="733" y="1013"  width="601" height="941" frameX="-107" frameY="-94" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0004" x="2169" y="4"  width="614" height="940" frameX="-96" frameY="-93" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0005" x="2169" y="4"  width="614" height="940" frameX="-96" frameY="-93" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0006" x="733" y="1962"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0007" x="733" y="1962"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0008" x="1388" y="1944"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0009" x="1388" y="1944"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0010" x="1388" y="1944"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0011" x="1388" y="1944"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0012" x="1388" y="1944"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0013" x="1388" y="1944"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuIdle0014" x="1388" y="1944"  width="647" height="940" frameX="-75" frameY="-92" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0000" x="4449" y="4"  width="734" height="797" frameX="-33" frameY="-98" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0001" x="4449" y="4"  width="734" height="797" frameX="-33" frameY="-98" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0002" x="4332" y="1747"  width="777" height="750" frameX="-0" frameY="-164" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0003" x="4332" y="1747"  width="777" height="750" frameX="-0" frameY="-164" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0004" x="4332" y="950"  width="774" height="789" frameX="-4" frameY="-137" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0005" x="4332" y="950"  width="774" height="789" frameX="-4" frameY="-137" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0006" x="2707" y="3815"  width="775" height="797" frameX="-3" frameY="-133" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0007" x="2707" y="3815"  width="775" height="797" frameX="-3" frameY="-133" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0008" x="3547" y="3784"  width="777" height="801" frameX="-2" frameY="-131" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0009" x="3547" y="3784"  width="777" height="801" frameX="-2" frameY="-131" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0010" x="3547" y="3784"  width="777" height="801" frameX="-2" frameY="-131" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0011" x="3547" y="3784"  width="777" height="801" frameX="-2" frameY="-131" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0012" x="3547" y="3784"  width="777" height="801" frameX="-2" frameY="-131" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0013" x="3547" y="3784"  width="777" height="801" frameX="-2" frameY="-131" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuLeft0014" x="3547" y="3784"  width="777" height="801" frameX="-2" frameY="-131" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0000" x="1435" y="977"  width="659" height="959" frameX="-83" frameY="-49" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0001" x="1435" y="977"  width="659" height="959" frameX="-83" frameY="-49" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0002" x="4" y="3975"  width="662" height="898" frameX="-65" frameY="-88" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0003" x="4" y="3975"  width="662" height="898" frameX="-65" frameY="-88" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0004" x="2022" y="3838"  width="677" height="882" frameX="-40" frameY="-102" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0005" x="2022" y="3838"  width="677" height="882" frameX="-40" frameY="-102" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0006" x="1346" y="3856"  width="668" height="884" frameX="-48" frameY="-99" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0007" x="1346" y="3856"  width="668" height="884" frameX="-48" frameY="-99" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0008" x="674" y="3975"  width="664" height="885" frameX="-51" frameY="-97" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0009" x="674" y="3975"  width="664" height="885" frameX="-51" frameY="-97" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0010" x="674" y="3975"  width="664" height="885" frameX="-51" frameY="-97" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0011" x="674" y="3975"  width="664" height="885" frameX="-51" frameY="-97" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0012" x="674" y="3975"  width="664" height="885" frameX="-51" frameY="-97" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0013" x="674" y="3975"  width="664" height="885" frameX="-51" frameY="-97" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuRight0014" x="674" y="3975"  width="664" height="885" frameX="-51" frameY="-97" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0000" x="4" y="4"  width="708" height="1054" frameX="-46" frameY="-0" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0001" x="4" y="4"  width="708" height="1054" frameX="-46" frameY="-0" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0002" x="1435" y="4"  width="726" height="965" frameX="-27" frameY="-89" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0003" x="1435" y="4"  width="726" height="965" frameX="-27" frameY="-89" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0004" x="4" y="1066"  width="709" height="996" frameX="-53" frameY="-58" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0005" x="4" y="1066"  width="709" height="996" frameX="-53" frameY="-58" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0006" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0007" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0008" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0009" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0010" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0011" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0012" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0013" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+  <SubTexture name="SakuUp0014" x="720" y="4"  width="707" height="1001" frameX="-57" frameY="-53" frameWidth="785" frameHeight="1054"/>
+</TextureAtlas>

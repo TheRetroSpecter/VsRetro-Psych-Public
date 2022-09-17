@@ -1,0 +1,29 @@
+:setFont:EastSeaDokdo.ttf|60
+:metro-player:Happy:Man, I love Fall.
+
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Happy:Me too! It just feels so cozy.
+
+:setFont:EastSeaDokdo.ttf|60
+:metro-player:Smug:You know what else is cozy?
+
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Neutral:What?
+
+:setFont:EastSeaDokdo.ttf|60
+:metro-player:Flushed:You.
+
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Giggling:Aww, stop it, you.
+
+:setFont:EastSeaDokdo.ttf|60
+:metro-player:Neutral:Hey, Maku.
+
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Neutral: Hmm?
+
+:setFont:EastSeaDokdo.ttf|60
+:metro-player:Happy:Want to sing a song together?
+
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Happy:Sure!

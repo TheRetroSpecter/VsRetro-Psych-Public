@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				228,
+				-34
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"scale": 0.95,
+			"indices": [],
+			"name": "Retro LEFT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				113,
+				-27
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"scale": 0.975,
+			"indices": [],
+			"name": "Retro Down Note instance 1"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				96,
+				82
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"scale": 1,
+			"indices": [],
+			"name": "Retro UP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				45,
+				-15
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"scale": 0.95,
+			"indices": [],
+			"name": "Retro RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"scale": 0.95,
+			"indices": [],
+			"name": "Retro IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				6
+			],
+			"fps": 24,
+			"anim": "enough",
+			"scale": 0.95,
+			"indices": [],
+			"name": "Enough"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WrathRetroSpecterAngy",
+	"position": [
+		230,
+		10
+	],
+	"healthicon": "retro",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		216,
+		228
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+
+	"hasChromatic": true,
+	"chromIntensity": 0.001,
+	"wrath": {
+		"wrath": {
+			"dir": 90,
+			"overlay": 0.5
+		}
+	}
+}

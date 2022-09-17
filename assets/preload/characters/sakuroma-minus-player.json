@@ -1,0 +1,274 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "m-saku-idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "m-saku-idle",
+			"indices": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"offsets": [
+				340,
+				-216
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "m-saku-down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				94,
+				51
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "m-saku-left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				178,
+				351
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "m-saku-up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				212,
+				63
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "m-saku-right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				-240
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "m-saku-down-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				107
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "m-saku-left-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				135,
+				246
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "m-saku-up-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				63,
+				193
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "m-saku-right-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				338,
+				-216
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "maku down miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				4
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "maku left miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				48,
+				201
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "maku up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				211,
+				4
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "maku right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				73,
+				-227
+			],
+			"loop": false,
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "maku down alt miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-41,
+				111
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "maku left alt miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				125,
+				159
+			],
+			"loop": false,
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "maku up alt miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				95,
+				192
+			],
+			"loop": false,
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "maku right alt miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				199,
+				100
+			],
+			"loop": false,
+			"anim": "wink",
+			"fps": 24,
+			"scale": 0.75,
+			"name": "m-saku-wink",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/maku/maku75-0",
+	"extraImages": [
+	"characters/minus/maku/maku75-1",
+	"characters/minus/maku/Maku_Miss_Sprites"
+	],
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		54,
+		107
+	],
+	"camera_position": [
+		350,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1.4,
+
+	"hasChromatic": false,
+	"wrath": {
+		"night": {
+			"dir": 327
+		}
+	}
+}

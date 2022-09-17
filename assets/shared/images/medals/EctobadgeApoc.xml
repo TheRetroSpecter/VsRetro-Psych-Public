@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="EctobadgeApoc.png" width="3978" height="232">
+  <SubTexture name="BopingSymbol0000" x="4" y="4" width="219" height="201" rotated="true"  frameX="-57" frameY="-55" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0001" x="2828" y="4" width="284" height="224" rotated="true"  frameX="-44" frameY="-43" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0002" x="986" y="4" width="225" height="207" rotated="true"  frameX="-54" frameY="-52" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0003" x="2016" y="4" width="233" height="215" rotated="true"  frameX="-49" frameY="-48" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0004" x="231" y="4" width="238" height="201" rotated="true"  frameX="-57" frameY="-36" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0005" x="3120" y="4" width="312" height="224" rotated="true"  frameX="-44" frameY="-15" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0006" x="1219" y="4" width="274" height="207" rotated="true"  frameX="-54" frameY="-3" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0007" x="2257" y="4" width="278" height="215" rotated="true"  frameX="-49" frameY="-3" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0008" x="477" y="4" width="274" height="201" rotated="true"  frameX="-57" frameY="-0" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0009" x="3440" y="4" width="283" height="224" rotated="true"  frameX="-44" frameY="-3" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0010" x="1501" y="4" width="274" height="207" rotated="true"  frameX="-54" frameY="-3" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0011" x="2543" y="4" width="277" height="215" rotated="true"  frameX="-49" frameY="-4" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0012" x="759" y="4" width="219" height="201" rotated="true"  frameX="-57" frameY="-55" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0013" x="3731" y="4" width="243" height="224" rotated="true"  frameX="-44" frameY="-43" frameWidth="319" frameHeight="327"/>
+  <SubTexture name="BopingSymbol0014" x="1783" y="4" width="225" height="207" rotated="true"  frameX="-54" frameY="-52" frameWidth="319" frameHeight="327"/>
+</TextureAtlas>

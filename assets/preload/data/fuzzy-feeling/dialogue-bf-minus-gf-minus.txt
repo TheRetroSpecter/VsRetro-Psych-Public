@@ -1,0 +1,13 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Hello you two~ You both seem... familiar.
+:setFont:vcr.ttf|40
+:minus-bf:Neutral:Beep.
+:minus-gf:Happy:[Smile] 
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Your outfits remind me of my younger days in college. Oh to be a cheerleader again. Fun times.
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Beep boop!
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:You mean you two are from a college? Infernal Paradise University?
+:sakuroma:Thinking:...
+:sakuroma:Neutral:Can't say I've heard of it.

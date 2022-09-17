@@ -1,0 +1,33 @@
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Neutral:WHAT THE...?
+
+:setFont:EastSeaDokdo.ttf|60
+:metro:Confused:Huh?
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Talking:WHO THE HELL ARE YOU, TINY MAN? AND WHY DO YOU LOOK FAMILIAR?
+
+:setFont:EastSeaDokdo.ttf|60
+:metro:Angry:Who are you calling tiny, you oversized stalagmite?!
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Sad:Ouch...
+
+:setFont:EastSeaDokdo.ttf|60
+:metro:Smug:Yeah, that's right.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Smug:AT LEAST I GOT TWO.
+
+:setFont:EastSeaDokdo.ttf|60
+:metro:Confused:Two? Two what?
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Laugh:AHAHAHAHAHA!
+
+:setFont:EastSeaDokdo.ttf|60
+:metro:Annoyed:...
+:metro:Angry:THAT'S IT, YOU'RE GOING DOWN, TUBBY!
+
+:setFont:aApiNyala.ttf|60
+:zerktro-R:Talking:NOBODY CALLS ME TUBBY!

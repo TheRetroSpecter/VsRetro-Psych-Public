@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="PoisonHold.png" width="53" height="112">
+	<SubTexture name="hold end0000" x="1" y="1" width="50" height="64"/>
+	<SubTexture name="hold piece0000" x="1" y="67" width="51" height="44"/>
+</TextureAtlas>

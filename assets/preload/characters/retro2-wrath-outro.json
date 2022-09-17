@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				703,
+				733
+			],
+			"scale": 1.1,
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "CutsceneFull",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/retro-end-notint-0",
+	"extraImages": ["characters/retro-end-notint-1"],
+	"position": [
+		-496,
+		-128
+	],
+	"healthicon": "zerktro",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		172,
+		180
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

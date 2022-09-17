@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"scale": 0.95,
+			"indices": [],
+			"name": "Corruptro_Idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/story/Corruptro",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "corruptro",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

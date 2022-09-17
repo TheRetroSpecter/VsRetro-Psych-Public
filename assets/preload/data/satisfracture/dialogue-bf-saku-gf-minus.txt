@@ -1,0 +1,23 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:Look, Izzy. I need that new shipment of clothes *now*.
+:retro:Neutral:I ordered them 3 weeks ago. You promised them last week.
+
+:setFont:IMMORTAL.ttf|40
+:izzy-phone-L:Neutral:Well maybe you shouldn't transform at the slightest inconvenience, you brute!
+:izzy-phone-L:Neutral:I swear. Just because your pants can stretch for your second phase-
+:izzy-phone-L:Neutral:-Doesn't mean your large pointy crystals won't tear through your jacket!
+
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:It's not my fault. I can't control my rage sometimes.
+
+:setFont:IMMORTAL.ttf|40
+:izzy-phone-L:Neutral:Well learn to control it! Lucifer knows how much longer I can keep making these.
+
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:*Sigh*. Alright. See ya.
+
+:setFont:Blenda Script.otf|40
+:bf-saku:Confused:Apparel issues with Izzurius?
+
+:retro:Neutral:Yep.
+:bf-saku:Eyeroll:I know what that's like.

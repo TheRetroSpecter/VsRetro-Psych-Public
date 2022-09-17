@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Minus Retro Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-160
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Minus Retro Down Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				17
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Minus Retro Left Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				129
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Minus Retro Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				46
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Minus Retro Right Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/minus_retro_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "retro-minus",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		216,
+		228
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+
+	"hasChromatic": false,
+	"wrath": {
+		"night": {
+			"dir": 307
+		}
+	}
+}

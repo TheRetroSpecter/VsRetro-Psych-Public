@@ -1,0 +1,15 @@
+:setFont:vcr.ttf|40
+:ace-L:Neutral:I always thought this song wasn't that great.
+:setFont:Blenda Script.otf|40
+:sakuroma:Angry:Well I think it's CUTE and BOUNCY. 
+:setFont:vcr.ttf|40
+:ace-L:Happy:You're also cute and bouncy.
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Aww~
+:setFont:vcr.ttf|40
+:ace-L:Neutral:...
+:ace-L:Happy:Sex?
+:setFont:Blenda Script.otf|40
+:sakuroma:Horny:Sex.
+:setFont:vcr.ttf|40
+:bf:Huh:Bruh.

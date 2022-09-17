@@ -1,0 +1,42 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				7
+			],
+			"anim": "IntroCutscene",
+			"fps": 24,
+			"scale": 0.95,
+			"name": "Phase 01 Instanz",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/IntroCutscene",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"hasChromatic": false,
+	"wrath": {
+		"wrath": {
+			"dir": -90,
+			"overlay": 0.5
+		}
+	}
+}

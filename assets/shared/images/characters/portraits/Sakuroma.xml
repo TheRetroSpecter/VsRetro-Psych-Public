@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sakuroma.png">
+	<SubTexture name="Neutral0000" x="0" y="0" width="539" height="519" frameX="0" frameY="47" frameWidth="539" frameHeight="519" />
+	<SubTexture name="Blush0000" x="539" y="0" width="513" height="519" frameX="0" frameY="47" frameWidth="513" frameHeight="519" />
+	<SubTexture name="Happy0000" x="1052" y="0" width="462" height="519" frameX="0" frameY="47" frameWidth="462" frameHeight="519" />
+	<SubTexture name="Flirt0000" x="0" y="519" width="450" height="532" frameX="0" frameY="47" frameWidth="450" frameHeight="532" />
+	<SubTexture name="Horny0000" x="450" y="519" width="441" height="519" frameX="0" frameY="47" frameWidth="441" frameHeight="519" />
+	<SubTexture name="Thinking0000" x="891" y="519" width="539" height="519" frameX="0" frameY="47" frameWidth="539" frameHeight="519" />
+	<SubTexture name="Menacing0000" x="0" y="1051" width="463" height="543" frameX="0" frameY="47" frameWidth="463" frameHeight="543" />
+	<SubTexture name="Angry0000" x="463" y="1051" width="380" height="519" frameX="0" frameY="47" frameWidth="380" frameHeight="519" />
+	<SubTexture name="Enraged0000" x="843" y="1051" width="544" height="577" frameX="0" frameY="47" frameWidth="544" frameHeight="577" />
+	<SubTexture name="Booba0000" x="0" y="1628" width="283" height="167" frameX="0" frameY="47" frameWidth="283" frameHeight="167" />
+</TextureAtlas>

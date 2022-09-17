@@ -1,0 +1,17 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:I'm hungry.
+:setFont:vcr.ttf|40
+:bf-ace:Confused:Then order Demondash?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:They don't deliver this far out here.
+:setFont:vcr.ttf|40
+:bf-ace:Sad:Fiiiiiiiiiiine.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Thank you.
+:setFont:EastSeaDokdo.ttf|30
+:retro:Blush:I love you.
+:setFont:vcr.ttf|40
+:bf-ace:Blush:Did you say something?
+:setFont:EastSeaDokdo.ttf|85
+:startTextShake:2|1
+:retro:Angry:I SAID I LOVE MOUNTAIN SPEW!

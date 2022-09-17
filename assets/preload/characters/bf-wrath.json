@@ -1,0 +1,163 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				24
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				6
+			],
+			"anim": "hey",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				1
+			],
+			"anim": "scared",
+			"fps": 24,
+			"scale": 0.9,
+			"name": "BF idle shaking",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wrath/BOYFRIEND",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+
+	"hasChromatic": false,
+	"wrath": {
+		"wrath": {
+			"dir": -90,
+			"overlay": 0.5
+		}
+	}
+}

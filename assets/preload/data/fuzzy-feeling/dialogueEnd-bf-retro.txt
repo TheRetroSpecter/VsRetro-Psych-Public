@@ -1,0 +1,14 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:Your voice sounds different than usual. Have you been drinking more water?
+:setFont:vcr.ttf|40
+:bf-retro:Smug:Hey, I like my coarse voice.
+:setFont:Blenda Script.otf|40
+:sakuroma:Horny:I do too, especially--
+:setFont:vcr.ttf|40
+:bf-retro:Flushed:Not the time.
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Anyways, I'll be around in place of Girlfriend over there, so I can watch your singing from the back.
+:setFont:vcr.ttf|40
+:gf:Sad:[Sad]
+:setFont:Blenda Script.otf|40
+:sakuroma:Enraged:(HOW MANY TIMES DO I GOTTA SAY IT. THIS IS NON-CANON.)

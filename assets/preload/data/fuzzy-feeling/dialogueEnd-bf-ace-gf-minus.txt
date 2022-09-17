@@ -1,0 +1,21 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Hey Ace?
+:setFont:vcr.ttf|40
+:bf-ace:Confused:Yeah?
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:How come you never use me on your streams~?
+:setFont:vcr.ttf|40
+:bf-ace:Happy:Well, unlike Retro, I have standards!
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Oh really? Then what was that picture of me on your computer last ni-
+:setFont:vcr.ttf|40
+:startTextShake:2|1
+:bf-ace:Blush:WOW LOOK AT THE TIME ALRIGHT IT'S BEEN REALLY FUN SINGING WITH YOU SAKU BYE.
+:startTextShake:0|0
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:But wait! We haven't had our obligatory fornication yet.
+:setFont:vcr.ttf|40
+:bf-ace:Blush:Fine. Let's just get this over with before anyone sees.
+:setFont:aApiNyala.ttf|100
+:startTextShake:3|1
+:zerktro:Laugh:OOO FREE SHOW!

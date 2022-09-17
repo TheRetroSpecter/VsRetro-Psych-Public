@@ -1,0 +1,14 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:Well hello there~
+:setFont:vcr.ttf|40
+:minus-bf:Flushed:B-boop?
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:You seem new. I like that halo of yours.
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Beep boop!
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:That reminds me, I wonder how Chastity is doing. We haven't spoken in years.
+:setFont:vcr.ttf|40
+:gf:Neutral:?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Oh don't mind me, just reminiscing about the past.

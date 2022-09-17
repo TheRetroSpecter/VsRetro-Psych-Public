@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RetroSpecter.png">
+	<SubTexture name="Neutral0000" x="0" y="0" width="440" height="506" frameX="0" frameY="42" frameWidth="440" frameHeight="506" />
+	<SubTexture name="Point0000" x="440" y="0" width="518" height="512" frameX="0" frameY="42" frameWidth="518" frameHeight="512" />
+	<SubTexture name="Smug0000" x="958" y="0" width="440" height="512" frameX="0" frameY="42" frameWidth="440" frameHeight="512" />
+	<SubTexture name="Angry0000" x="0" y="512" width="508" height="510" frameX="0" frameY="42" frameWidth="508" frameHeight="510" />
+	<SubTexture name="Blush0000" x="508" y="512" width="528" height="517" frameX="0" frameY="42" frameWidth="528" frameHeight="517" />
+	<SubTexture name="Confused0000" x="1036" y="512" width="508" height="508" frameX="0" frameY="42" frameWidth="508" frameHeight="508" />
+	<SubTexture name="Question0000" x="1036" y="512" width="508" height="508" frameX="0" frameY="42" frameWidth="508" frameHeight="508" />
+	<SubTexture name="Assertive0000" x="0" y="1029" width="549" height="512" frameX="0" frameY="42" frameWidth="549" frameHeight="512" />
+	<SubTexture name="Eyeroll0000" x="549" y="1029" width="440" height="506" frameX="0" frameY="42" frameWidth="440" frameHeight="506" />
+	<SubTexture name="Annoyed0000" x="989" y="1029" width="440" height="506" frameX="0" frameY="42" frameWidth="440" frameHeight="506" />
+</TextureAtlas>

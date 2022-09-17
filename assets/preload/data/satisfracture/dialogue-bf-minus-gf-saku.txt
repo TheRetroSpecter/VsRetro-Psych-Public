@@ -1,0 +1,21 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Hey, Saku.
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Neutral:Hm?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Why are people so weird about you?
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Thinking:Besides the obvious of me being Lust? I don't know.
+:sakuroma-gf-L:Thinking:I've seen the things people say about me on your streams.
+:sakuroma-gf-L:Menacing:I'm into some weird stuff, but wow do they take the cake.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Point:Tell me about it. They need to keep that shit to themself.
+:retro:Smug:Literally no one wants to hear about it.
+:setFont:Blenda Script.otf|40
+:sakuroma-gf-L:Flirt:Some of them even think we're dating. Hah! Imagine.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Ace would freeze us both.
+:setFont:vcr.ttf|40
+:minus-bf:Miss:Boop?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Oh right, the song.

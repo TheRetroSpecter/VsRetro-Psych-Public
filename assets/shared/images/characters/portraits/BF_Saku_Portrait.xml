@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_Saku_Portrait.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ahegao0000" x="10" y="10" width="463" height="477"/>
+	<SubTexture name="Annoyed0000" x="483" y="10" width="383" height="478"/>
+	<SubTexture name="Confused0000" x="876" y="10" width="482" height="486"/>
+	<SubTexture name="Eyeroll0000" x="1368" y="10" width="481" height="478"/>
+	<SubTexture name="Flirt0000" x="10" y="506" width="467" height="486"/>
+	<SubTexture name="Happy0000" x="487" y="506" width="481" height="478"/>
+	<SubTexture name="Miss0000" x="978" y="506" width="436" height="482"/>
+	<SubTexture name="Neutral0000" x="1424" y="506" width="481" height="478"/>
+	<SubTexture name="Wink0000" x="10" y="1002" width="481" height="486"/>
+</TextureAtlas>

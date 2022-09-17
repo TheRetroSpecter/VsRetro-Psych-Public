@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mozi_Portrait.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Awake0000" x="10" y="10" width="629" height="316" />
+	<SubTexture name="Confused0000" x="649" y="10" width="629" height="319" />
+	<SubTexture name="Sleeping0000" x="1288" y="10" width="629" height="417"/>
+</TextureAtlas>

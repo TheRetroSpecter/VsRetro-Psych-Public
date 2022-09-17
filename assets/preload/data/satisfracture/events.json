@@ -1,0 +1,33 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "wrath",
+		"player1": "bf-wrath",
+		"player2": "retro-wrath",
+		"events": [
+			[
+				20035.7142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"retro-alt-wrath"
+					],
+					[
+						"Play Animation",
+						"enough",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-wrath",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Satisfracture"
+	}
+}

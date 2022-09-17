@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="_IzzyBop.png" width="2478" height="540">
+  <SubTexture name="IzzyBop0000" x="4" y="4"  width="490" height="488" frameX="-3" frameY="-44" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0001" x="4" y="4"  width="490" height="488" frameX="-3" frameY="-44" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0002" x="502" y="4"  width="484" height="496" frameX="-6" frameY="-36" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0003" x="502" y="4"  width="484" height="496" frameX="-6" frameY="-36" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0004" x="994" y="4"  width="488" height="504" frameX="-5" frameY="-28" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0005" x="994" y="4"  width="488" height="504" frameX="-5" frameY="-28" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0006" x="1490" y="4"  width="487" height="526" frameX="-1" frameY="-6" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0007" x="1490" y="4"  width="487" height="526" frameX="-1" frameY="-6" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0008" x="1985" y="4"  width="489" height="532" frameX="-0" frameY="-0" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0009" x="1985" y="4"  width="489" height="532" frameX="-0" frameY="-0" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0010" x="1985" y="4"  width="489" height="532" frameX="-0" frameY="-0" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0011" x="1985" y="4"  width="489" height="532" frameX="-0" frameY="-0" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0012" x="1985" y="4"  width="489" height="532" frameX="-0" frameY="-0" frameWidth="493" frameHeight="532"/>
+  <SubTexture name="IzzyBop0013" x="1985" y="4"  width="489" height="532" frameX="-0" frameY="-0" frameWidth="493" frameHeight="532"/>
+</TextureAtlas>

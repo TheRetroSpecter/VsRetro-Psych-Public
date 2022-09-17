@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="HivemineBop.png" width="3181" height="589">
+  <SubTexture name="Hivemine bop0000.png" x="4" y="4"  width="706" height="565" frameX="-31" frameY="-107" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0001.png" x="4" y="4"  width="706" height="565" frameX="-31" frameY="-107" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0002.png" x="1987" y="4"  width="706" height="579" frameX="-31" frameY="-93" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0003.png" x="1987" y="4"  width="706" height="579" frameX="-31" frameY="-93" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0004.png" x="718" y="4"  width="671" height="574" frameX="-54" frameY="-98" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0005.png" x="718" y="4"  width="671" height="574" frameX="-54" frameY="-98" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0006.png" x="1397" y="4"  width="582" height="578" frameX="-103" frameY="-94" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0007.png" x="1397" y="4"  width="582" height="578" frameX="-103" frameY="-94" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0008.png" x="2701" y="4"  width="476" height="581" frameX="-153" frameY="-91" frameWidth="862" frameHeight="674"/>
+  <SubTexture name="Hivemine bop0009.png" x="2701" y="4"  width="476" height="581" frameX="-153" frameY="-91" frameWidth="862" frameHeight="674"/>
+</TextureAtlas>

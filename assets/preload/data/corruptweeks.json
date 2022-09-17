@@ -1,0 +1,19 @@
+{
+	"order": [
+		"corrupt"
+	],
+
+	"data": {
+		"corrupt": {
+			"songs": ["Corruptro"],
+			"char": "story/corruptro",
+			"name": "wrath_title",
+			"menuSong": "Menu_Corruptro",
+			"introSong": "Intro_Corruptro",
+			"nameColor": "0xFFa53883",
+			"bgColor": "0xFF1f1621",
+			"logo": "storymenu/corruptro_logo",
+			"bgSymbol": "corruptro_symbol"
+		}
+	}
+}

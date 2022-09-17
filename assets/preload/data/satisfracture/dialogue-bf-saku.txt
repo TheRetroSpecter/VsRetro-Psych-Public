@@ -1,0 +1,15 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Saku...?
+:setFont:Blenda Script.otf|40
+:bf-saku:Confused:Hmm?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Oh my god. This is hilarious.
+:setFont:Blenda Script.otf|40
+:bf-saku:Eyeroll:Oh wait. Let me guess.
+:bf-saku:Annoyed:It's because I'm finally shorter than you, isn't it?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:"How's it feel, being all the way down there?"
+:setFont:Blenda Script.otf|40
+:bf-saku:Eyeroll:Yes yes, laugh it up sweetie. You know this isn't canon.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Canon or not, I will enjoy every second of this. Revenge is sweet.

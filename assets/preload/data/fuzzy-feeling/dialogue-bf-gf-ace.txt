@@ -1,0 +1,21 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Hello Ace. What are you doing here?
+:setFont:vcr.ttf|40
+:ace-L:Shocked:I could be asking the same thing to you, Sakuroma. What's up?
+:setFont:Blenda Script.otf|40
+:sakuroma:Thinking:Oh you know. 
+:sakuroma:Horny:Sex.
+:setFont:vcr.ttf|40
+:ace-L:Neutral:Figures. Retro seems to always be pent up and stressed about every little thing.
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Seems like he's going through a lot, being the new gatekeeper and all. I heard his dad forced him the job.
+:setFont:vcr.ttf|40
+:ace-L:Neutral:Yeah. It doesn't seem easy, being the one to decide who enters or leaves the Underworld.
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:But hey, at least we're here to help him out right?
+:setFont:Blenda Script.otf|30
+:sakuroma:Flirt:(In more ways than one.)
+:setFont:vcr.ttf|40
+:bf:Neutral:Beep?
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:Oh pardon us Boyfriend, just having some casual world-building conversation here.

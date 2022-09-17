@@ -1,0 +1,12 @@
+:setFont:vcr.ttf|40
+:minus-bf:Smug:Beep boop?
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Why do all of these dialogue interactions end in implied hanky panky?
+:sakuroma:Flirt:I'm literally Lust sweetie. It's what I do.
+:sakuroma:Neutral:Also, barely any of this dialogue is canon. Not sure how many times I have to say it.
+:setFont:vcr.ttf|40
+:gf:Happy:[Happy]
+:setFont:Blenda Script.otf|40
+:sakuroma:Horny:You two know the drill. Come here.
+:setFont:vcr.ttf|40
+:minus-bf:Booba:BOOBA

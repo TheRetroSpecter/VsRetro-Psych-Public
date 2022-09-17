@@ -1,0 +1,20 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Ace, please get off my speakers.
+:setFont:vcr.ttf|40
+:ace-L:Shocked:Huh? Why?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:They're expensive.
+:setFont:vcr.ttf|40
+:ace-L:Embarrassed:Sorry! There's not really any other place to sit.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:You of all people should know how sensitive that stuff is, Mr. audio engineer.
+:setFont:vcr.ttf|40
+:ace-L:Neutral:Well I'm not gonna sit on your dirty man-cave floor.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:I'll have you know I keep this cave very tidy.
+:setFont:EastSeaDokdo.ttf|43
+:retro:Blush:...By paying Hivemine's business to make it so.
+:setFont:vcr.ttf|40
+:ace-L:Shocked:Did you say something?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Nope. Singing time.

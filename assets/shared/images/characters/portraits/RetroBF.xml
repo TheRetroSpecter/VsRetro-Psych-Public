@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RetroBF.png">
+	<SubTexture name="Neutral0000" x="71" y="76" width="563" height="476" />
+    <SubTexture name="Happy0000" x="713" y="76" width="532" height="476"/>
+    <SubTexture name="Smug0000" x="1385" y="76" width="561" height="476"/>
+    <SubTexture name="Sad0000" x="2059" y="76" width="563" height="476"/>
+    <SubTexture name="Confused0000" x="2713" y="76" width="578" height="476"/>
+    <SubTexture name="Flushed0000" x="3371" y="76" width="563" height="476"/>
+</TextureAtlas>

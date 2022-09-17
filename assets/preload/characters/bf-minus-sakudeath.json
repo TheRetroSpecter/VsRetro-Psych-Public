@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				364,
+				-7
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies Saku",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				131,
+				-13
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop Saku",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-9
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm Saku",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/minus_bf/minus_bf_saku_death",
+	"position": [
+		-10,
+		300
+	],
+	"healthicon": "bf-minus",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

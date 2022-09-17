@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="story_crystal_bf.png" width="4867" height="457">
+  <SubTexture name="Crystal_BF_Idle0002" x="1" y="1"  width="507" height="434" frameX="-2" frameY="-21" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0004" x="510" y="1"  width="511" height="434" frameX="-1" frameY="-21" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0005" x="1023" y="1"  width="514" height="435" frameX="-0" frameY="-20" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0009" x="1539" y="1"  width="465" height="447" frameX="-18" frameY="-8" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0006" x="2006" y="1"  width="511" height="448" frameX="-1" frameY="-7" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0007" x="2519" y="1"  width="514" height="448" frameX="-0" frameY="-7" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0010" x="3035" y="1"  width="460" height="451" frameX="-19" frameY="-4" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0012" x="3497" y="1"  width="460" height="451" frameX="-19" frameY="-4" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0000" x="3959" y="1"  width="454" height="454" frameX="-20" frameY="-1" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0008" x="4415" y="1"  width="451" height="455" frameX="-22" frameY="-0" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0001" x="3959" y="1"  width="454" height="454" frameX="-20" frameY="-1" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0003" x="1" y="1"  width="507" height="434" frameX="-2" frameY="-21" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0011" x="3035" y="1"  width="460" height="451" frameX="-19" frameY="-4" frameWidth="514" frameHeight="455"/>
+  <SubTexture name="Crystal_BF_Idle0013" x="3035" y="1"  width="460" height="451" frameX="-19" frameY="-4" frameWidth="514" frameHeight="455"/>
+</TextureAtlas>

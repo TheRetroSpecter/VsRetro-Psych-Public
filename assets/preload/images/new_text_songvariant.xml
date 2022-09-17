@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="new text.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NEW0000" x="10" y="10" width="260" height="203" frameX="-1" frameY="0" frameWidth="261" frameHeight="203"/>
+	<SubTexture name="NEW0001" x="280" y="10" width="260" height="203" frameX="0" frameY="0" frameWidth="261" frameHeight="203"/>
+	<SubTexture name="NEW0002" x="550" y="10" width="259" height="201" frameX="-1" frameY="0" frameWidth="261" frameHeight="203"/>
+</TextureAtlas>

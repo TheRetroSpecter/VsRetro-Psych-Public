@@ -1,0 +1,10 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Point:I need to piss. Cover for me will you?
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Talking:I CAN'T DO THAT. I'M GLUED TO THIS STEREO HERE.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:Please dude, I can't hold it in anymore.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:AWWW, GONNA CRY? GONNA PISS YOUR PANTS MAYBE?
+:startTextShake:2|1
+:retro:Angry:I'M ALREADY PISSING!

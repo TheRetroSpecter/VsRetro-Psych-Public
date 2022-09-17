@@ -1,0 +1,36 @@
+{
+	"songs": [
+		["Icebreaker", "iceolation", [186, 226, 255]],
+		["Postgame", "metro-saku-duo", [136, 135, 168]],
+		["Mompoms", "sakuroma", [248, 54, 107]],
+		["Brawnstorm", "retro", [23, 216, 228]],
+		["Corruptro", "corruptro", [0, 0, 0]]
+	],
+
+	"songColors": [
+		
+	],
+
+	"loadingScreens": [
+		"Icebreaker:extras/icebreaker",
+		"Postgame:minus/postgame",
+		"Mompoms:minus/mompoms",
+		"Brawnstorm:extras/brawnstorm",
+		"Corruptro:extras/corruptro"
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Extras",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

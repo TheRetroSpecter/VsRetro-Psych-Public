@@ -1,0 +1,41 @@
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Hey big guy~
+
+:setFont:aApiNyala.ttf|70
+:zerktro-L:Neutral:HEY.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:Let's give the people what they want, shall we?
+
+:setFont:aApiNyala.ttf|70
+:zerktro-L:Laugh:IT'S ABOUT TIME. I'M ALL PENT UP.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:I meant a duet~
+
+:setFont:aApiNyala.ttf|70
+:zerktro-L:Blush:OH.
+:zerktro-L:Blush:YEAH.
+:zerktro-L:Blush:ME TOO.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Flirt:That other stuff can be done off-screen. Don't want to get "Demon"etized~
+
+:setFont:aApiNyala.ttf|70
+:zerktro-L:Laugh:HAHA. I GET IT.
+
+:setFont:vcr.ttf|40
+:bf-retro:Confused:Uhhhh, am I interrupting something?
+
+:setFont:aApiNyala.ttf|70
+:zerktro:Laugh:YOU. LESSER BEING. I GIVE YOU VOICE YELLING POWERS. SING.
+
+:setFont:vcr.ttf|40
+:bf-retro:Confused:But you're playable now. Why aren't you here?
+
+:setFont:aApiNyala.ttf|70
+:zerktro:Laugh:SHUT UP. HAVE MY VOICE.
+
+:startTextShake:3|1
+:setFont:vcr.ttf|80
+:bf-retro:Happy:I CAN SCREAM LIKE A PRINTER NOW!

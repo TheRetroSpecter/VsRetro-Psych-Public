@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SakuBop.png" width="525" height="702">
+  <SubTexture name="SakuBop0000.png" x="4" y="4"  width="260" height="329" frameX="-20" frameY="-34" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0002.png" x="272" y="4"  width="248" height="346" frameX="-26" frameY="-14" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0006.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0004.png" x="264" y="358"  width="257" height="340" frameX="-19" frameY="-20" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0001.png" x="4" y="4"  width="260" height="329" frameX="-20" frameY="-34" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0003.png" x="272" y="4"  width="248" height="346" frameX="-26" frameY="-14" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0005.png" x="264" y="358"  width="257" height="340" frameX="-19" frameY="-20" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0007.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0008.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0009.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0010.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0011.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0012.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0013.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+  <SubTexture name="SakuBop0014.png" x="4" y="341"  width="252" height="342" frameX="-23" frameY="-18" frameWidth="297" frameHeight="369"/>
+</TextureAtlas>

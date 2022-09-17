@@ -1,0 +1,10 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:What are you doing here?
+:setFont:vcr.ttf|40
+:bf-ace:Sad:You never invite me to your realm.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:There's literally nothing to do here.
+:setFont:vcr.ttf|40
+:bf-ace:Happy:Yeah, but I like visiting you.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:...I like when you visit, too.

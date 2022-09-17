@@ -1,0 +1,185 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "m-saku-idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "m-saku-idle",
+			"indices": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"offsets": [
+				170,
+				-209
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "m-saku-down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				51
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "m-saku-left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				118,
+				351
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "m-saku-up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				63
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "m-saku-right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				-240
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "m-saku-down-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				151,
+				117
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "m-saku-left-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				236
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "m-saku-up-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-87,
+				193
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "m-saku-right-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				163,
+				96
+			],
+			"loop": false,
+			"anim": "wink",
+			"fps": 24,
+			"scale": 0.75,
+			"name": "m-saku-wink",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus/maku/maku75-0",
+	"extraImages": [
+	"characters/minus/maku/maku75-1"
+	],
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "sakuroma",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		54,
+		107
+	],
+	"camera_position": [
+		120,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.33333,
+
+	"hasChromatic": false,
+	"wrath": {
+		"night": {
+			"dir": 327
+		}
+	}
+}

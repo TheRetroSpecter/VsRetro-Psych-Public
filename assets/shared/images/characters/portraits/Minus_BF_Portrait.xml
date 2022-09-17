@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Minus_BF_Portrait.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Booba0000" x="10" y="10" width="465" height="500"/>
+	<SubTexture name="Flushed0000" x="485" y="10" width="465" height="500"/>
+	<SubTexture name="Happy0000" x="960" y="10" width="472" height="507"/>
+	<SubTexture name="Miss0000" x="1442" y="10" width="464" height="478"/>
+	<SubTexture name="Neutral0000" x="10" y="527" width="472" height="507" />
+	<SubTexture name="Smug0000" x="492" y="527" width="472" height="507"/>
+	<SubTexture name="Disgruntled0000" x="974" y="527" width="472" height="507"/>
+</TextureAtlas>

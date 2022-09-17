@@ -1,0 +1,15 @@
+:setFont:vcr.ttf|40
+:ace-L:Happy:Your voice is so cute!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:Enough.
+:setFont:vcr.ttf|40
+:ace-L:Happy:You said the line again!
+:setFont:aApiNyala.ttf|70
+:startTextShake:2|1
+:retro:Angry:ENOUGH!
+:stopTextShake:
+:setFont:vcr.ttf|40
+:ace-L:Shocked:Aww what, you gonna go Phase 2 on me?
+:ace-L:Happy:You know I love that form.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Blush:... 

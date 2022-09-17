@@ -1,0 +1,28 @@
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:SAKU.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Angry:What.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Smug:I KNOW WHAT HAPPENED TO YOUR CLOTHES.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Menacing:Do you now? Pray tell. What happened to my clothes, sweetie?
+
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:I'M ON THE PHONE WITH IZZURIUS RIGHT NOW. HE TOLD ME EVERYTHING.
+:zerktro-L:Talking:HANG ON. HE TOLD ME TO PUT HIM ON SPEAKER.
+
+:setFont:IMMORTAL.ttf|40
+:izzy-phone-L:Neutral:DAMMIT WOMAN. THIS IS THE 5TH TIME THIS MONTH YOU'VE EATEN YOUR CLOTHES.
+:izzy-phone-L:Neutral:I GET YOU'RE A MOTH AND ALL BUT, LEARN TO CONTROL YOUR APPETTITE PLEASE???
+:izzy-phone-L:Neutral:STITCHRIOL'S HANDS HURT. ANYWAYS, I'M BUSY. FAREWELL BOTH OF YOU.
+
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Laugh:AHAHAHAHA.
+:zerktro-L:Smug:WELL? WHAT DO YOU HAVE TO SAY ABOUT THAT SAKU?
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Neutral:...
+:sakuroma:Happy:WellLookAtTheTimeItsBeenFunButIReallyGottaGoByeZerkyAndBFFunSingingWithYouBothI'llTalkToYouBothLaterToodles!

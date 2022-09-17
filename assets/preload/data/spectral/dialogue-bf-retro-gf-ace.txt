@@ -1,0 +1,15 @@
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:So.
+:setFont:vcr.ttf|40
+:bf-retro:Confused:Hm?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:When's that Endless remix you promised over half a year ago?
+:setFont:vcr.ttf|40
+:bf-retro:Sad:Look man. I'm busy.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Neutral:Uh huh.
+:setFont:vcr.ttf|40
+:ace-L:Blush:Just transform already so we can go back to my place.
+:bf-retro:Flushed:Ayo-?
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:On it.

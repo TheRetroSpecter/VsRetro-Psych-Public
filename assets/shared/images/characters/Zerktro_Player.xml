@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zerktro_Player.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Zerktro Down0000" x="10" y="10" width="1062" height="876" frameX="0" frameY="-5" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0001" x="10" y="10" width="1062" height="876" frameX="0" frameY="-5" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0002" x="1082" y="10" width="1068" height="879" frameX="0" frameY="-3" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0003" x="1082" y="10" width="1068" height="879" frameX="0" frameY="-3" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0004" x="2160" y="10" width="1050" height="882" frameX="-3" frameY="0" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0005" x="2160" y="10" width="1050" height="882" frameX="-3" frameY="0" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0006" x="3220" y="10" width="1051" height="881" frameX="-3" frameY="-1" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0007" x="3220" y="10" width="1051" height="881" frameX="-3" frameY="-1" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0008" x="4281" y="10" width="1051" height="881" frameX="-3" frameY="-1" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0009" x="4281" y="10" width="1051" height="881" frameX="-3" frameY="-1" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0010" x="4281" y="10" width="1051" height="881" frameX="-3" frameY="-1" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0011" x="4281" y="10" width="1051" height="881" frameX="-3" frameY="-1" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0012" x="4281" y="10" width="1051" height="881" frameX="-3" frameY="-1" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Down0013" x="4281" y="10" width="1051" height="881" frameX="-3" frameY="-1" frameWidth="1068" frameHeight="882"/>
+	<SubTexture name="Zerktro Idle0000" x="5342" y="10" width="1077" height="909" frameX="-3" frameY="0" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0001" x="5342" y="10" width="1077" height="909" frameX="-3" frameY="0" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0002" x="6429" y="10" width="1089" height="884" frameX="0" frameY="-25" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0003" x="6429" y="10" width="1089" height="884" frameX="0" frameY="-25" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0004" x="10" y="929" width="1094" height="885" frameX="0" frameY="-24" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0005" x="10" y="929" width="1094" height="885" frameX="0" frameY="-24" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0006" x="1114" y="929" width="1101" height="893" frameX="-2" frameY="-16" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0007" x="1114" y="929" width="1101" height="893" frameX="-2" frameY="-16" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0008" x="2225" y="929" width="1074" height="905" frameX="-4" frameY="-4" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0009" x="2225" y="929" width="1074" height="905" frameX="-4" frameY="-4" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0010" x="3309" y="929" width="1079" height="907" frameX="-2" frameY="-2" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0011" x="3309" y="929" width="1079" height="907" frameX="-2" frameY="-2" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0012" x="4398" y="929" width="1078" height="907" frameX="-3" frameY="-2" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Idle0013" x="4398" y="929" width="1078" height="907" frameX="-3" frameY="-2" frameWidth="1103" frameHeight="909"/>
+	<SubTexture name="Zerktro Left0000" x="5486" y="929" width="1014" height="838" frameX="-39" frameY="-2" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0001" x="5486" y="929" width="1014" height="838" frameX="-39" frameY="-2" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0002" x="6510" y="929" width="1045" height="836" frameX="-9" frameY="-4" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0003" x="6510" y="929" width="1045" height="836" frameX="-9" frameY="-4" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0004" x="10" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0005" x="10" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0006" x="1072" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0007" x="1072" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0008" x="1072" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0009" x="1072" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0010" x="1072" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0011" x="1072" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0012" x="1072" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro Left0013" x="1072" y="1846" width="1052" height="840" frameX="0" frameY="0" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro MISS Down0000" x="2134" y="1846" width="1062" height="876" frameX="-9" frameY="-41" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0001" x="3206" y="1846" width="1036" height="909" frameX="-8" frameY="0" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0002" x="3206" y="1846" width="1036" height="909" frameX="-8" frameY="0" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0003" x="4252" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0004" x="4252" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0005" x="5315" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0006" x="5315" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0007" x="4252" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0008" x="4252" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0009" x="5315" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0010" x="5315" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0011" x="4252" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0012" x="4252" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Down0013" x="5315" y="1846" width="1053" height="894" frameX="0" frameY="-15" frameWidth="1071" frameHeight="917"/>
+	<SubTexture name="Zerktro MISS Left0000" x="5486" y="929" width="1014" height="838" frameX="-3" frameY="-14" frameWidth="1054" frameHeight="840"/>
+	<SubTexture name="Zerktro MISS Left0001" x="6378" y="1846" width="1047" height="859" frameX="-9" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0002" x="6378" y="1846" width="1047" height="859" frameX="-9" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0003" x="10" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0004" x="10" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0005" x="1067" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0006" x="1067" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0007" x="10" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0008" x="10" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0009" x="1067" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0010" x="1067" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0011" x="10" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Left0012" x="10" y="2765" width="1047" height="859" frameX="0" frameY="0" frameWidth="1056" frameHeight="859"/>
+	<SubTexture name="Zerktro MISS Up 0000" x="2124" y="2765" width="1086" height="1073" frameX="-60" frameY="-84" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0001" x="3220" y="2765" width="1193" height="1152" frameX="0" frameY="-12" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0002" x="3220" y="2765" width="1193" height="1152" frameX="0" frameY="-12" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0003" x="4423" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0004" x="4423" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0005" x="5594" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0006" x="5594" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0007" x="4423" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0008" x="4423" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0009" x="5594" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0010" x="5594" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0011" x="4423" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0012" x="4423" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro MISS Up 0013" x="5594" y="2765" width="1161" height="1164" frameX="-16" frameY="0" frameWidth="1193" frameHeight="1164"/>
+	<SubTexture name="Zerktro Miss Right0000" x="6765" y="2765" width="1080" height="965" frameX="-2" frameY="-12" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0001" x="10" y="3939" width="1063" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0002" x="10" y="3939" width="1063" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0003" x="1083" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0004" x="1083" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0005" x="2162" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0006" x="2162" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0007" x="1083" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0008" x="1083" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0009" x="2162" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0010" x="2162" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0011" x="1083" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0012" x="1083" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Miss Right0013" x="2162" y="3939" width="1069" height="978" frameX="0" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Right0000" x="6765" y="2765" width="1080" height="965" frameX="-2" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Right0001" x="6765" y="2765" width="1080" height="965" frameX="-2" frameY="0" frameWidth="1082" frameHeight="978"/>
+	<SubTexture name="Zerktro Right0002" x="3241" y="3939" width="1076" height="945" frameX="0" frameY="-20" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0003" x="3241" y="3939" width="1076" height="945" frameX="0" frameY="-20" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0004" x="4327" y="3939" width="1076" height="937" frameX="0" frameY="-28" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0005" x="4327" y="3939" width="1076" height="937" frameX="0" frameY="-28" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0006" x="5413" y="3939" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0007" x="5413" y="3939" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0008" x="6496" y="3939" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0009" x="6496" y="3939" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0010" x="10" y="4927" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0011" x="10" y="4927" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0012" x="5413" y="3939" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0013" x="5413" y="3939" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0014" x="6496" y="3939" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0015" x="6496" y="3939" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0016" x="10" y="4927" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Right0017" x="10" y="4927" width="1073" height="935" frameX="0" frameY="-30" frameWidth="1082" frameHeight="965"/>
+	<SubTexture name="Zerktro Up0000" x="1093" y="4927" width="1086" height="1073" frameX="-15" frameY="-2" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0001" x="1093" y="4927" width="1086" height="1073" frameX="-15" frameY="-2" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0002" x="2189" y="4927" width="1083" height="1075" frameX="-16" frameY="0" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0003" x="2189" y="4927" width="1083" height="1075" frameX="-16" frameY="0" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0004" x="3282" y="4927" width="1103" height="1073" frameX="0" frameY="-2" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0005" x="3282" y="4927" width="1103" height="1073" frameX="0" frameY="-2" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0006" x="4395" y="4927" width="1103" height="1070" frameX="0" frameY="-5" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0007" x="4395" y="4927" width="1103" height="1070" frameX="0" frameY="-5" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0008" x="5508" y="4927" width="1103" height="1070" frameX="0" frameY="-5" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0009" x="5508" y="4927" width="1103" height="1070" frameX="0" frameY="-5" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0010" x="5508" y="4927" width="1103" height="1070" frameX="0" frameY="-5" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0011" x="5508" y="4927" width="1103" height="1070" frameX="0" frameY="-5" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0012" x="5508" y="4927" width="1103" height="1070" frameX="0" frameY="-5" frameWidth="1103" frameHeight="1075"/>
+	<SubTexture name="Zerktro Up0013" x="5508" y="4927" width="1103" height="1070" frameX="0" frameY="-5" frameWidth="1103" frameHeight="1075"/>
+</TextureAtlas>

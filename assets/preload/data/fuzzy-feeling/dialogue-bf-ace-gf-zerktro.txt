@@ -1,0 +1,13 @@
+:setFont:aApiNyala.ttf|60
+:zerktro:Laugh:HAHA. LOOK AT THE MANLET.
+
+:setFont:Blenda Script.otf|40
+:sakuroma:Blush:What ever shall we do with him?
+:sakuroma:Menacing:I can think of a few options.
+
+:setFont:aApiNyala.ttf|60
+:zerktro:Smug:SAME HERE.
+
+:setFont:vcr.ttf|40
+:bf-ace:Sad:*Sniffling* You are all so horny.
+:bf-ace:Blush:And I ain't complainin'.

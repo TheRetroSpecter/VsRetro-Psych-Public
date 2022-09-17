@@ -1,0 +1,22 @@
+:setFont:EastSeaDokdo.ttf|60
+:minus-atrocean:Surprised:Wow.
+:setFont:EastSeaDokdo.ttf|60
+:minus-dozirc:Confused:...Huh?
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Confused:What the hell...?
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Sad:W-was it that bad? Sorry...
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Surprised:What? No, not at all! I had no idea you were such a good singer.
+:setFont:vcr.ttf|40
+:minus-bf:Happy:Beep boop!
+:setFont:vcr.ttf|40
+:minus-gf:Happy:[Happy]
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Flustered:Oh, th-thank you...
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Smug:Hey, Maku, mind if we sing this next one together?
+:setFont:Blenda Script.otf|40
+:minus-sakuroma:Happy:Oh, sure!
+:setFont:EastSeaDokdo.ttf|60
+:minus-retro:Smug:Alright, then let's give him everything we've got!

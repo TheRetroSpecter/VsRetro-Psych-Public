@@ -1,0 +1,21 @@
+:setFont:aApiNyala.ttf|60
+:zerktro:Neutral:ACE?
+:setFont:vcr.ttf|40
+:bf-ace:Confused:Retro???
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:What?
+:setFont:aApiNyala.ttf|60
+:zerktro:Sad:I'M SO CONFUSED
+:setFont:vcr.ttf|40
+:bf-ace:Sad:Why am I short? Why are there two of you?
+:setFont:aApiNyala.ttf|60
+:zerktro:Talking:I DON'T KNOW MAN, I JUST SPAWNED HERE!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:Someone has some explaining to do.
+:setFont:aApiNyala.ttf|60
+:zerktro-L:Neutral:SHUT UP... 
+:zerktro-L:Blush:...ME
+:setFont:EastSeaDokdo.ttf|60
+:retro:Eyeroll:Smooth.
+:setFont:vcr.ttf|40
+:bf-ace:Neutral:Smooth.

@@ -1,0 +1,19 @@
+:setFont:vcr.ttf|40
+:bf-retro:Sad:Man. You fell off.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Confused:Huh?
+:setFont:vcr.ttf|40
+:bf-retro:Smug:I'm just saying, look how much more popular my sick remixes are compared to your originals.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Assertive:Your "sick beats" made you crunch yourself daily to the point of it impacting your health.
+:setFont:vcr.ttf|40
+:bf-retro:Happy:Sigma grindset!
+:setFont:EastSeaDokdo.ttf|60
+:retro:Smug:Sigma nutz.
+:setFont:vcr.ttf|40
+:ace:Annoyed:Alright you two, chill out.
+:setFont:EastSeaDokdo.ttf|60
+:retro:Annoyed:He started it!
+:setFont:vcr.ttf|40
+:bf-retro:Neutral:N"ice" pun.
+:ace-L:Eyeroll:I hate it here.
