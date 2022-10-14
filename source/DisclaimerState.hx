@@ -171,6 +171,8 @@ class DisclaimerState extends FlxState {
 			state = Flashing;
 		}
 
+		
+			
 		super.create();
 	}
 

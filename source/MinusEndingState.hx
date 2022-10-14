@@ -143,6 +143,8 @@ class MinusEndingState extends FlxSubState {
 		cameras = [FlxG.cameras.list[FlxG.cameras.list.length - 1]];
 		cameras[0].angle = 0;
 
+		
+			
 		super.create();
 	}
 

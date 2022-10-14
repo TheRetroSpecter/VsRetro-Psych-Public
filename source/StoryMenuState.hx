@@ -823,6 +823,10 @@ class StoryMenuState extends UnlockableMusicBeatState
 		goop.alpha = curWeek == 0 && menuState == Normal ? 1 : 0;
 		updateBadges();
 
+		#if android
+		addVirtualPad(LEFT_FULL, A_B);
+		#end
+			
 		super.create();
 		Paths.clearUnusedMemory();
 		openfl.system.System.gc();

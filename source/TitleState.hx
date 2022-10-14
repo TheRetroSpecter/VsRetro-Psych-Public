@@ -62,6 +62,7 @@ class TitleState extends MusicBeatState
 
 	var blackScreen:FlxSpriteExtra;
 	var credGroup:FlxGroup;
+	
 	var textGroup:FlxGroup;
 	var ngSpr:FlxSprite;
 
@@ -77,15 +78,11 @@ class TitleState extends MusicBeatState
 
 	override public function create():Void
 	{
-		#if sys
-		if (sys.FileSystem.exists("assets/images/coconut.png") == false)
-		{
-			// (tsg) allow hell to break loose
-
-			// (tsg) exit game
-			System.exit(0);
-		}
+		#if android
+		FlxG.android.preventDefaultKeys = [BACK];
 		#end
+		
+		
 
 		Paths.clearStoredMemory();
 		Paths.clearUnusedMemory();
@@ -95,9 +92,8 @@ class TitleState extends MusicBeatState
 
 		trace("Hello, Mortals");
 
-		var customUpdateScreen = FileSystem.exists('updateScreen.hscript');
-
-		//#if CHECK_FOR_UPDATES
+		
+		#if windows 
 		if(!closedState || customUpdateScreen) {
 			if(!customUpdateScreen) {
 				var http = new haxe.Http("https://raw.githubusercontent.com/TheRetroSpecter/VsRetro-Internet-Stuff/main/version.txt");
@@ -123,7 +119,8 @@ class TitleState extends MusicBeatState
 			}
 
 			OutdatedState.initHaxeModule();
-			/*#if LOCAL_UPDATE_FILES
+			
+			/*#if LOCAL_UPDATE_FILES 
 			var str:String = File.getContent('updateScreen.hscript');
 			if(str == null) str = 'version = ' + MainMenuState.retroVer + ';';
 			try {
@@ -170,6 +167,7 @@ class TitleState extends MusicBeatState
 			http.request();
 			#end*/
 		}
+		#end
 		//#end
 
 		//FlxG.game.focusLostFramerate = 60;
@@ -234,7 +232,7 @@ class TitleState extends MusicBeatState
 		}
 		#end
 
-		#if debug
+		#if windows 
 		FlxG.console.registerClass(Paths);
 		#end
 	}
@@ -555,7 +553,7 @@ class TitleState extends MusicBeatState
 			logoBl.scale.y -= decScale * elapsed;
 		}
 
-		#if mobile
+		#if android
 		for (touch in FlxG.touches.list)
 		{
 			if (touch.justPressed)
