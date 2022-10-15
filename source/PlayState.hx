@@ -765,7 +765,7 @@ class PlayState extends MusicBeatState
 
 		for (folder in foldersToCheck)
 		{
-			if(OpenFlAssets.exists(folder))
+			if(FileSystem.exists(folder))
 			{
 				for (file in FileSystem.readDirectory(folder))
 				{
@@ -1027,7 +1027,7 @@ class PlayState extends MusicBeatState
 		}
 
 		//var file:String = Paths.txt(songName + '/' + songName + 'Dialogue'); //Checks for vanilla/Senpai dialogue
-		//if (openFlAssets.exists(file)) {
+		//if (OpenFlAssets.exists(file)) {
 		//	dialogue = CoolUtil.coolTextFile(file);
 		//}
 		//var doof:DialogueBoxOld = new DialogueBoxOld(dialogue);

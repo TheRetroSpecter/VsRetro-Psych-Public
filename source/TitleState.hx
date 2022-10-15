@@ -444,10 +444,10 @@ class TitleState extends MusicBeatState
 		titleText = new FlxSprite(titleJSON.startx, titleJSON.starty);
 		#if (desktop && MODS_ALLOWED)
 		var path = "mods/" + Paths.currentModDirectory + "/images/titleEnter.png";
-		if (!OpenFlAssets.exists(path)){
+		if (!FileSystem.exists(path)){
 			path = "mods/images/titleEnter.png";
 		}
-		if (!OpenFlAssets.exists(path)){
+		if (!FileSystem.exists(path)){
 			path = "assets/images/titleEnter.png";
 		}
 		titleText.frames = FlxAtlasFrames.fromSparrow(BitmapData.fromFile(path),File.getContent(StringTools.replace(path,".png",".xml")));
