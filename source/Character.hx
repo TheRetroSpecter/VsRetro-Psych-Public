@@ -135,11 +135,11 @@ class Character extends FlxSprite
 
 		#if desktop
 		var path:String = Paths.modFolders(characterPath);
-		if (!FileSystem.exists(path)) {
+		if (!OpenFlAssets.exists(path)) {
 			path = Paths.getPreloadPath(characterPath);
 		}
 
-		if (!FileSystem.exists(path))
+		if (!OpenFlAssets.exists(path))
 		#else
 		var path:String = Paths.getPreloadPath(characterPath);
 		if (!Assets.exists(path))
@@ -175,11 +175,11 @@ class Character extends FlxSprite
 
 				#if desktop
 				var path:String = Paths.modFolders(characterPath);
-				if (!FileSystem.exists(path)) {
+				if (!OpenFlAssets.exists(path)) {
 					path = Paths.getPreloadPath(characterPath);
 				}
 
-				if (!FileSystem.exists(path))
+				if (!OpenFlAssets.exists(path))
 				#else
 				var path:String = Paths.getPreloadPath(characterPath);
 				if (!Assets.exists(path))
@@ -416,7 +416,7 @@ class Character extends FlxSprite
 		var modTxtToFind:String = Paths.modsTxt(imageName);
 		var txtToFind:String = Paths.getPath('images/' + imageName + '.txt', TEXT);
 
-		if (FileSystem.exists(modTxtToFind) || FileSystem.exists(txtToFind) || Assets.exists(txtToFind))
+		if (OpenFlAssets.exists(modTxtToFind) || OpenFlAssets.exists(txtToFind) || Assets.exists(txtToFind))
 		#else
 		if (Assets.exists(Paths.getPath('images/' + imageName + '.txt', TEXT)))
 		#end
@@ -428,7 +428,7 @@ class Character extends FlxSprite
 		var modAnimToFind:String = Paths.modFolders('images/' + imageName + '/Animation.json');
 		var animToFind:String = Paths.getPath('images/' + imageName + '/Animation.json', TEXT);
 
-		if (FileSystem.exists(modAnimToFind) || FileSystem.exists(animToFind) || Assets.exists(animToFind))
+		if (OpenFlAssets.exists(modAnimToFind) || OpenFlAssets.exists(animToFind) || Assets.exists(animToFind))
 		#else
 		if (Assets.exists(Paths.getPath('images/' + imageName + '/Animation.json', TEXT)))
 		#end

@@ -59,9 +59,9 @@ class StageData {
 
 		#if desktop
 		var modPath:String = Paths.modFolders('stages/' + stage + '.json');
-		if(FileSystem.exists(modPath)) {
+		if(OpenFlAssets.exists(modPath)) {
 			rawJson = File.getContent(modPath);
-		} else if(FileSystem.exists(path)) {
+		} else if(OpenFlAssets.exists(path)) {
 			rawJson = File.getContent(path);
 		}
 		#else

@@ -43,7 +43,7 @@ class CoolUtil
 	{
 		var daList:Array<String> = [];
 		#if desktop
-		if(FileSystem.exists(path)) daList = File.getContent(path).trim().split('\n');
+		if(OpenFlAssets.exists(path)) daList = File.getContent(path).trim().split('\n');
 		#else
 		if(Assets.exists(path)) daList = Assets.getText(path).trim().split('\n');
 		#end
@@ -59,7 +59,7 @@ class CoolUtil
 	public static function coolTextFileLegacy(path:String):Array<String>
 	{
 		#if desktop
-		if(!FileSystem.exists(path))
+		if(!OpenFlAssets.exists(path))
 		#else
 		if(!Assets.exists(path, TEXT))
 		#end
@@ -69,7 +69,7 @@ class CoolUtil
 
 		var daList:Array<String> = [];
 		#if desktop
-		if(FileSystem.exists(path)) daList = File.getContent(path).trim().split('\n');
+		if(OpenFlAssets.exists(path)) daList = File.getContent(path).trim().split('\n');
 		#else
 		if(Assets.exists(path)) daList = Assets.getText(path).trim().split('\n');
 		#end

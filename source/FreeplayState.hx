@@ -376,7 +376,7 @@ class FreeplayState extends UnlockableMusicBeatState
 			if(diffPath == '-normal') diffPath = ''; //Normal difficulty uses no suffix
 
 			#if desktop
-			if (FileSystem.exists('assets/data/${formatPath}/${formatPath + diffPath}.json'))
+			if (OpenFlAssets.exists('assets/data/${formatPath}/${formatPath + diffPath}.json'))
 			#else
 			if (Assets.exists('assets/data/${formatPath}/${formatPath + diffPath}.json', TEXT))
 			#end

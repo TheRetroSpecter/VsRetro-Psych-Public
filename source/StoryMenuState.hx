@@ -1372,9 +1372,9 @@ class StoryMenuState extends UnlockableMusicBeatState
 
 		#if MODS_ALLOWED
 		var modPath:String = Paths.modFolders('data/' + set + 'weeks.json');
-		if(FileSystem.exists(modPath)) {
+		if(OpenFlAssets.exists(modPath)) {
 			rawJson = File.getContent(modPath);
-		} else if(FileSystem.exists(path)) {
+		} else if(OpenFlAssets.exists(path)) {
 			rawJson = File.getContent(path);
 		}
 		#else
