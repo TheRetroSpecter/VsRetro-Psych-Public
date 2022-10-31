@@ -10,6 +10,8 @@ import openfl.display.FPS;
 import openfl.display.Sprite;
 import openfl.events.Event;
 import openfl.display.StageScaleMode;
+import sys.io.File;
+import sys.FileSystem;
 
 #if CRASH_HANDLER
 import lime.app.Application;
@@ -85,14 +87,14 @@ class Main extends Sprite
 			FileSystem.createDirectory(Generic.returnPath() + 'assets');
 		}
 
-		var PerfsState:Class<FlxState> = TitleState; // The FlxState the game starts with.
+		var PermsState:Class<FlxState> = TitleState; // The FlxState the game starts with.
 
 		#if !debug
 		//initialState = DisclaimerState;
 		#end
 	
 		ClientPrefs.loadDefaultKeys();
-		addChild(new FlxGame(gameWidth, gameHeight, PerfsState, zoom, framerate, framerate, skipSplash, startFullscreen));
+		addChild(new FlxGame(gameWidth, gameHeight, PermsState, zoom, framerate, framerate, skipSplash, startFullscreen));
 
 		fpsVar = new FPS(10, 3, 0xFFFFFF);
 		addChild(fpsVar);
