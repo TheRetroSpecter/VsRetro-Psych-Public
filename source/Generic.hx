@@ -2,7 +2,7 @@ package;
 
 import sys.FileSystem;
 #if android
-import android.Hardware;
+import android.widget.Toast;
 import android.Permissions;
 import android.os.Environment;
 #end
@@ -113,7 +113,7 @@ class Generic {
 			}
 			#if android
 			catch (e:Dynamic)
-			Hardware.toast("Error!\nClouldn't save the crash dump because:\n" + e, ToastType.LENGTH_LONG);
+			Toast.makeText("Error!\nClouldn't save the crash dump because:\n" + e, Toast.LENGTH_LONG);
 			#end
 
 			Sys.println(errMsg);

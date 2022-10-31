@@ -85,14 +85,14 @@ class Main extends Sprite
 			FileSystem.createDirectory(Generic.returnPath() + 'assets');
 		}
 
-		var initialState:Class<FlxState> = TitleState; // The FlxState the game starts with.
+		var PerfsState:Class<FlxState> = TitleState; // The FlxState the game starts with.
 
 		#if !debug
 		//initialState = DisclaimerState;
 		#end
 	
 		ClientPrefs.loadDefaultKeys();
-		addChild(new FlxGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen));
+		addChild(new FlxGame(gameWidth, gameHeight, PerfsState, zoom, framerate, framerate, skipSplash, startFullscreen));
 
 		fpsVar = new FPS(10, 3, 0xFFFFFF);
 		addChild(fpsVar);
