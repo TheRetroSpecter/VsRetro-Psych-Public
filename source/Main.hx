@@ -87,7 +87,7 @@ class Main extends Sprite
 			FileSystem.createDirectory(Generic.returnPath() + 'assets');
 		}
 
-		var PermsState:Class<FlxState> = TitleState; // The FlxState the game starts with.
+		var InitialState:Class<FlxState> = TitleState; // The FlxState the game starts with.
 
 		#if !debug
 		//initialState = DisclaimerState;
