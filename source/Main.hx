@@ -42,6 +42,8 @@ class Main extends Sprite
 
 	public function new()
 	{
+	  Generic.initCrashHandler();
+
 		super();
 
 		if (stage != null)
@@ -76,6 +78,11 @@ class Main extends Sprite
 			zoom = Math.min(ratioX, ratioY);
 			gameWidth = Math.ceil(stageWidth / zoom);
 			gameHeight = Math.ceil(stageHeight / zoom);
+		}
+
+		Generic.mode = ROOTDATA;
+		if (!FileSystem.exists(Generic.returnPath() + 'assets')) {
+			FileSystem.createDirectory(Generic.returnPath() + 'assets');
 		}
 
 		var initialState:Class<FlxState> = TitleState; // The FlxState the game starts with.
