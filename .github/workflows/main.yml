@@ -44,7 +44,7 @@ jobs:
 
       - name: Install Haxelib
         run: |
-          haxelib setup ~/haxelib
+          haxelib setup ~/home/runner/haxelib
           haxelib install hxcpp > /dev/null
           haxelib install lime 7.9.0
           haxelib install hxCodec
